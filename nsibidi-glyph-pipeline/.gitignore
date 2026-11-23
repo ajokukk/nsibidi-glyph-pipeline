@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# data and model artefacts: keep out of git
+*.pth
+*.pt
+*.onnx
+*.zip
+*.csv
+!src/labels_en.csv
+data/
+datasets/
+outputs/
+app_output/
+src/_box_editor/
+runs/
+.DS_Store

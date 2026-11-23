@@ -1,0 +1,34 @@
+# Versions below are the ones in the environment the experiments were run in (Windows 11, from pip freeze).
+# The full freeze is kept in docs/pip_freeze_windows.txt.
+
+# Core
+numpy==2.2.6
+scipy==1.15.3
+pillow==12.3.0
+opencv-python==5.0.0.93
+scikit-image==0.25.2
+pandas==2.3.3
+
+# Deep learning. The freeze shows the CUDA 12.1 builds (torch 2.5.1+cu121, torchvision 0.20.1+cu121). Install with:
+#   pip install torch==2.5.1 torchvision==0.20.1 --index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1
+torchvision==0.20.1
+
+# Vector tracing (LPGS) and SVG rasterisation
+potracer==0.0.4
+cairosvg==2.9.0
+
+# Model compression (compress_classifier.py)
+onnx==1.23.2
+onnxruntime==1.23.2
+onnxconverter-common==1.16.0
+
+# Review application
+streamlit==1.65.0
+
+# CUT (cut/glyph_datasets.py imports sklearn). Not in the local freeze: CUT was trained on a cloud GPU, so its
+# version is not recorded here.
+scikit-learn
+
+# Optional, Stage 2 only (pulls in Django and many other packages)
+# label-studio==1.23.0

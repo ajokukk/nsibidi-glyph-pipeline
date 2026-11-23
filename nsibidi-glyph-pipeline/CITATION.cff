@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the thesis below."
+title: "Code for: A Data-Efficient Approach for Accelerated Development of Benchmark Character Recognition Dataset for Endangered Scripts"
+type: software
+authors:
+  - family-names: Ajoku
+    given-names: Kingsley Kelechi
+    affiliation: "Federal University of Technology Owerri"
+preferred-citation:
+  type: thesis
+  title: "A Data-Efficient Approach for Accelerated Development of Benchmark Character Recognition Dataset for Endangered Scripts"
+  authors:
+    - family-names: Ajoku
+      given-names: Kingsley Kelechi
+  year: 2026
+  department: "Department of Computer Science"
+  institution:
+    name: "Federal University of Technology Owerri"
+  thesis-type: "Ph.D. thesis"

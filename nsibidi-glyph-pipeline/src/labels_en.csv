@@ -1,0 +1,1401 @@
+id,pdf_page,file,glyph_codepoint,english_gloss_raw,class,en_label,en_all,label_shared_by
+0001,18,S0001,34382,leopard; brave; bold,O,leopard,leopard; brave; bold,1
+0002,18,S0002,23376,child; baby; childish,FMM,child,child; baby; childish,1
+0003,18,S0003,38263,chief; elder; ancient; century,O,chief,chief; elder; ancient; century,1
+0004,18,S0004,26408,tree; wood; stick,MF,tree,tree; wood; stick,1
+0005,18,S0005,26519,"bush, woods, 林 MM 1öfïá forest, grove; forest",MM,bush,bush; woods; forest; grove,2
+0006,18,S0006,26575,iroko tree,C,iroko tree,iroko tree,1
+0007,18,S0007,26412,"root; origin, source",FMM,root,root; origin; source,1
+0008,18,S0008,29579,king; leader; chief; head; owner,C,king,king; leader; chief; head; owner,1
+0009,18,S0009,23467,hall; palace; long C ögwá room,C,hall,hall; palace; long room,2
+0010,18,S0010,33865,"leaf; paper, book, page, leaflet; thatch",FMM,leaf,leaf; paper; book; page; leaflet; thatch,1
+0011,18,S0011,27700,"water; liquid; watery, runny; cistern, well",O,water,water; liquid; watery; runny; cistern; well,1
+0012,18,S0012,34503,snake; serpent,MF,snake,snake; serpent,1
+0013,18,S0013,22899,female,O,female,female,2
+0014,18,S0014,30007,male,O,male,male,2
+0015,18,S0015,33258,self; own; personal,C,self,self; own; personal,1
+0016,18,S0016,20083,breast; milk,C,breast,breast; milk,1
+0017,18,S0017,20154,"human, person, O mádų mankind",O,human,human; person; mankind,1
+0018,18,S0018,23478,house; home; homestead; building,MF,house,house; home; homestead; building,1
+0019,18,S0019,22235,"four, 4",O,four,four,1
+0020,18,S0020,38988,"problem, trouble, palaver; situation, 題 O sògbú emergency; annoyance, inconvenience",O,problem,problem; trouble; palaver; situation; emergency; annoyance; inconvenience,1
+0021,18,S0021,21091,sword,O,sword,sword,1
+0022,18,S0022,26028,"machete, matchet",C,machete,machete; matchet,1
+0023,18,S0023,33509,youth; teen; adolescent; youngster,C,youth,youth; teen; adolescent; youngster,1
+0024,18,S0024,26834,rod; spoke; iron,O,rod,rod; spoke; iron,1
+0025,19,S0025,24931,train; raise; tutor; drill; educate; mentor; discipline,N,train,train; raise; tutor; drill; educate; mentor; discipline,1
+0026,19,S0026,24369,"under, below; subterranean",C,under,under; below; subterranean,1
+0027,19,S0027,21138,"razor, blade, O ágbübá dagger",O,razor,razor; blade; dagger,1
+0028,19,S0028,25152,place; location,N,place,place; location,3
+0029,19,S0029,25937,"support; help, ńzá ‘assistance",FMM,support,support; help,3
+0030,19,S0030,19968,one; single; same,O,one,one; single; same,1
+0031,19,S0031,20108,"two, 2; twice",O,two,two; twice,1
+0032,19,S0032,19977,"three, 3",O,three,three,1
+0033,19,S0033,26685,tender palm frond,N,tender palm frond,tender palm frond,1
+0034,19,S0034,20633,guard,O,guard,guard,1
+0035,19,S0035,27231,gun; rifle,MF,gun,gun; rifle,1
+0036,19,S0036,26085,sun; solar,S,sun,sun; solar,1
+0037,19,S0037,24046,"shine, radiate, emit; ray",C,shine,shine; radiate; emit; ray,1
+0038,19,S0038,29031,"illuminate, blaze; C nwú fashion, trend (v.)",C,illuminate,illuminate; blaze; fashion; trend (v.),1
+0039,19,S0039,32186,clean (v.),C,clean (v.),clean (v.),1
+0040,19,S0040,40599,clean; pure,C,clean,clean; pure,2
+0041,19,S0041,27005,pleasure; merriment,C,pleasure,pleasure; merriment,1
+0042,19,S0042,27714,"search, find",C,search,search; find,2
+0043,19,S0043,25506,"show, display; teach, demonstrate",C,show,show; display; teach; demonstrate,2
+0044,19,S0044,33288,"impregnate, N tü germinate",N,impregnate,impregnate; germinate,1
+0045,19,S0045,20116,five; 5,O,five,five,1
+0046,19,S0046,20845,six; 6,O,six,six,1
+0047,19,S0047,19971,"seven, 7 [rods]",O,seven,seven; [rods],1
+0048,19,S0048,19978,up; top; atop; superior; upper,N,up,up; top; atop; superior; upper,1
+0049,19,S0049,31034,edge; corner; roof,C,edge,edge; corner; roof,1
+0050,19,S0050,25447,"raise, erect, lift",C,raise,raise; erect; lift,1
+0051,19,S0051,38632,rain (n.),C,rain (n.),rain (n.),1
+0052,19,S0052,20940,"day; date, time",C,day,day; date; time,2
+0053,20,S0053,38670,"thin, slim",C,thin,thin; slim,1
+0054,20,S0054,20124,"sky; heaven; pantheon; space, C ígwé cosmos; dome; convex",C,sky,sky; heaven; pantheon; space; cosmos; dome; convex,1
+0055,20,S0055,21696,"hill; mound, N ügwü mountain",N,hill,hill; mound; mountain,1
+0056,20,S0056,20843,"eight, 8 [rods]",O,eight,eight; [rods],1
+0057,20,S0057,20061,nine; 9,O,nine,nine,1
+0058,20,S0058,21313,ten; 10,O,ten,ten,1
+0059,20,S0059,25342,"star, stars, cosmos; dandy, celebrity",O,star,star; stars; cosmos; dandy; celebrity,1
+0060,20,S0060,26326,night,MF,night,night,2
+0061,20,S0061,24746,mat,O,mat,mat,1
+0062,20,S0062,25569,"riot, disturbance, 握 nuisance; confusion; noise, argument",O,riot,riot; disturbance; nuisance; confusion; noise; argument,1
+0063,20,S0063,22311,"wealth, money, 圧 MM àkų capital, ‘riches; treasure",MM,wealth,wealth; money; capital; treasure,1
+0064,20,S0064,25201,leg; foot,N,leg,leg; foot,1
+0065,20,S0065,23451,walk; movement; going; journey,FMM,walk,walk; movement; going; journey,1
+0066,20,S0066,23888,animal,C,animal,animal,1
+0067,20,S0067,23433,swell; rise,C,swell,swell; rise,1
+0068,20,S0068,26696,him; her; it,C,him,him; her; it,3
+0069,20,S0069,26263,steal; thieve,PC,steal,steal; thieve,1
+0070,20,S0070,20197,people of; people,N,people of,people of; people,1
+0071,20,S0071,34915,person of; person; who,C,person of,person of; person; who,1
+0072,20,S0072,20301,hook; staple,O,hook,hook; staple,3
+0073,20,S0073,22303,ground; land; earth; planet; property; estate,C,ground,ground; land; earth; planet; property; estate,1
+0074,20,S0074,22258,"vagina, vulva",MM,vagina,vagina; vulva,1
+0075,20,S0075,21307,"penis; phallus, phallic",MM,penis,penis; phallus; phallic,1
+0076,20,S0076,20379,children; babies; offspring; group; young; youth,MF,children,children; babies; offspring; group; young; youth,2
+0077,20,S0077,20381,"talk (n.), speech, MM ókwú words",MM,talk (n.),talk (n.); speech; words,1
+0078,20,S0078,25509,link; join; unify; unity; copulate,O,link,link; join; unify; unity; copulate,1
+0079,21,S0079,22996,lover,C,lover,lover,2
+0080,21,S0080,23041,"stick, sticky, glue, 威 PC nyá slip, place, staple, rub, post (v.)",PC,stick,stick; sticky; glue; slip; place; staple; rub; post (v.),1
+0081,21,S0081,28858,journey; odyssey; mission; struggle,O,journey,journey; odyssey; mission; struggle,1
+0082,21,S0082,30031,road; path; portal; way; street; track; direction,O,road,road; path; portal; way; street; track; direction,1
+0083,21,S0083,32963,split; crack; expose; divide; half,FMM,split,split; crack; expose; divide; half,1
+0084,21,S0084,22922,"pregnancy, 妊 O ímé pregnant, term; after birth",O,pregnancy,pregnancy; pregnant; term; after birth,1
+0085,21,S0085,35351,message; notification; news; letter; teachings; sermon,O,message,message; notification; news; letter; teachings; sermon,1
+0086,21,S0086,22823,"big, large, great, 大 C úkwú grand; plentiful, much, many",C,big,big; large; great; grand; plentiful; much; many,1
+0087,21,S0087,24515,heart; feelings; courage; mind; soul; centre; core; chest,MM,heart,heart; feelings; courage; mind; soul; centre; core; chest,1
+0088,21,S0088,30446,eye; eyes; opening; vent,MF,eye,eye; eyes; opening; vent,1
+0089,21,S0089,35211,see; realise; know; attentive; ascertain; decode; care; love; meet; check; spy,C,see,see; realise; know; attentive; ascertain; decode; care; love; meet; check; spy,1
+0090,21,S0090,23561,"post, pillar, column, C ìdè stake",C,post,post; pillar; column; stake,1
+0091,21,S0091,30064,width,C,width,width,1
+0092,21,S0092,31227,"cam wood, reddish PC úhìè orange",PC,cam wood,cam wood; reddish orange,1
+0093,21,S0093,33806,key,PC,key,key,1
+0094,21,S0094,20553,light; glow,C,light,light; glow,1
+0095,21,S0095,26885,"civilization, 椅 intelligence, C įhnyę stateliness, morality; aura",C,civilization,civilization; intelligence; stateliness; morality; aura,1
+0096,21,S0096,24409,spider,O,spider,spider,1
+0097,21,S0097,24847,ladder,O,ladder,ladder,1
+0098,21,S0098,36949,"bridge, overpass",O,bridge,bridge; overpass,1
+0099,21,S0099,32173,[tree] trunk; limb,PC,[tree] trunk,[tree] trunk; limb,1
+0100,21,S0100,24944,moon; ‘month; MF önwä season,MF,moon,moon; season,1
+0101,21,S0101,36986,year; generation,C,year,year; generation,1
+0102,21,S0102,32239,full moon,C,full moon,full moon,1
+0103,21,S0103,22495,over-clouding,C,over-clouding,over-clouding,1
+0104,21,S0104,32946,halo,C,halo,halo,1
+0105,21,S0105,22769,tortoise,O,tortoise,tortoise,1
+0106,22,S0106,23383,nsibiri; nsibidi,O,nsibiri,nsibiri; nsibidi,1
+0107,22,S0107,36920,iron bar; prison; imprison,O,iron bar,iron bar; prison; imprison,1
+0108,22,S0108,33576,"cage, cell, room",C,cage,cage; cell; room,1
+0109,22,S0109,24859,"love, affection, 愛 O ïhünányá admiration; flirt, flirting",O,love,love; affection; admiration; flirt; flirting,1
+0110,22,S0110,33419,plenty; too much; super,C,plenty,plenty; too much; super,2
+0111,22,S0111,21475,mouth; opening,S,mouth,mouth; opening,1
+0112,22,S0112,21360,"front; in front, C ‘forward; future generation",C,front,front; in front; future generation,1
+0113,22,S0113,21729,fall; collapse; fail,C,fall,fall; collapse; fail,1
+0114,22,S0114,38498,"public, state; C ǫhà people, population",C,public,public; state; people; population,2
+0115,22,S0115,28139,market day; north,M,market day,market day; north,4
+0116,22,S0116,38512,market day; south,M,market day,market day; south,4
+0117,22,S0117,39154,market day; east,M,market day,market day; east,4
+0118,22,S0118,38560,market day; west,M,market day,market day; west,4
+0119,22,S0119,38907,"cut; slice; divide; end, ending",C,cut,cut; slice; divide; end; ending,2
+0120,22,S0120,21491,"begin, start, C bí commence",C,begin,begin; start; commence,2
+0121,22,S0121,23431,"come, arrive",C,come,come; arrive,1
+0122,22,S0122,32701,"relation, relative",C,relation,relation; relative,1
+0123,22,S0123,21764,slave,O,slave,slave,1
+0124,22,S0124,30045,and,C,and,and,1
+0125,22,S0125,28006,or,C,or,or,1
+0126,22,S0126,36939,"Igbo language, Igbo C ìgbò people",C,Igbo language,Igbo language; Igbo people,1
+0127,22,S0127,38642,"but, however, if C mà not",C,but,but; however; if not,1
+0128,22,S0128,27704,so,C,so,so,1
+0129,22,S0129,27891,because (c.),C,because (c.),because (c.),1
+0130,22,S0130,33521,yet (c.),C,yet (c.),yet (c.),1
+0131,22,S0131,26144,although (c.),C,although (c.),although (c.),1
+0132,22,S0132,26628,"after, following (c.)",C,after,after; following (c.),1
+0133,22,S0133,21942,in; at; inside; middle; centre,PC,in,in; at; inside; middle; centre,1
+0134,23,S0134,35424,"country, state",C,country,country; state,1
+0135,23,S0135,24433,talkative,S,talkative,talkative,1
+0136,23,S0136,37613,"talk, say, speak (v.)",S,talk,talk; say; speak (v.),2
+0137,23,S0137,34907,embrace; move PC kwú to; hug,PC,embrace,embrace; move to; hug,1
+0138,23,S0138,26131,rhythm; music,C,rhythm,rhythm; music,1
+0139,23,S0139,30123,join; add; pair; come together (v.),C,join,join; add; pair; come together (v.),1
+0140,23,S0140,30410,kola nut,I,kola nut,kola nut,1
+0141,23,S0141,28082,greet; welcome,C,greet,greet; welcome,1
+0142,23,S0142,39365,"follow, escort, C sò accompany",C,follow,follow; escort; accompany,1
+0143,23,S0143,24742,chalk,C,chalk,chalk,2
+0144,23,S0144,36234,black,C,black,black,1
+0145,23,S0145,35585,scratch; erase; engrave; scribe,C,scratch,scratch; erase; engrave; scribe,3
+0146,23,S0146,38322,"husband, dedicated C dí to, professional",C,husband,husband; dedicated to; professional,1
+0147,23,S0147,20870,"wife, partner",C,wife,wife; partner,1
+0148,23,S0148,24310,present in; on; in; inside; is; be,C,present in,present in; on; in; inside; is; be,1
+0149,23,S0149,27839,anchor,O,anchor,anchor,1
+0150,23,S0150,37329,currency,O,currency,currency,1
+0151,23,S0151,28814,zero,N,zero,zero,1
+0152,23,S0152,24616,public; square; street; public way,MF,public,public; square; street; public way,2
+0153,23,S0153,23476,important; relevant; significant; necessary,C,important,important; relevant; significant; necessary,1
+0154,23,S0154,23195,"happiness, joy, 媛 celebration; play; play; celebrate",C,happiness,happiness; joy; celebration; play; celebrate,1
+0155,23,S0155,25588,war; riot; upheaval,C,war,war; riot; upheaval,1
+0156,23,S0156,22290,stone; pebble; boulder,N,stone,stone; pebble; boulder,1
+0157,23,S0157,29017,beauty; goodness,C,beauty,beauty; goodness,1
+0158,23,S0158,29503,food,C,food,food,1
+0159,23,S0159,36960,fire; heat,O,fire,fire; heat,1
+0160,23,S0160,39746,soul; essence; C chí ‘universe,C,soul,soul; essence,1
+0161,23,S0161,37467,welcome; hello,O,welcome,welcome; hello,1
+0162,24,S0162,22633,group,C,group,group,1
+0163,24,S0163,28436,now; time,C,now,now; time,1
+0164,24,S0164,32257,"breeze, gale, wind",C,breeze,breeze; gale; wind,1
+0165,24,S0165,33398,life; live; alive; living; strength; green,C,life,life; live; alive; living; strength; green,1
+0166,24,S0166,27738,defile,O,defile,defile,1
+0167,24,S0167,20985,"buy, purchase",C,buy,buy; purchase,2
+0168,24,S0168,22830,feather,MF,feather,feather,1
+0169,24,S0169,24540,entrance,C,entrance,entrance,1
+0170,24,S0170,24448,culture,C,culture,culture,1
+0171,24,S0171,25276,plantain,MF,plantain,plantain,1
+0172,24,S0172,26106,door; gate; wooden shutter; window; portal,O,door,door; gate; wooden shutter; window; portal,1
+0173,24,S0173,27431,warrior; soldier; strong man,C,warrior,warrior; soldier; strong man,2
+0174,24,S0174,27572,question,MM,question,question,1
+0175,24,S0175,26716,nation; tribe; ethnicity,C,nation,nation; tribe; ethnicity,1
+0176,24,S0176,32705,no,C,no,no,1
+0177,24,S0177,22885,work; build,C,work,work; build,1
+0178,24,S0178,27178,strengthen; stiffen; harden,C,strengthen,strengthen; stiffen; harden,1
+0179,24,S0179,23713,drum,O,drum,drum,2
+0180,24,S0180,23627,trickster deity,C,trickster deity,trickster deity,1
+0181,24,S0181,20740,"cause mischief, 億 be sneaky, C rü trickery; trick; defraud",C,cause mischief,cause mischief; be sneaky; trickery; trick; defraud,1
+0182,24,S0182,25014,marriage,C,marriage,marriage,1
+0183,24,S0183,33222,lie; deceit,O,lie,lie; deceit,3
+0184,24,S0184,34398,mind; wisdom,C,mind,mind; wisdom,1
+0185,24,S0185,20057,tie; bind,C,tie,tie; bind,2
+0186,24,S0186,20474,"corpse, dead body",S,corpse,corpse; dead body,1
+0187,24,S0187,21368,fear,N,fear,fear,2
+0188,24,S0188,38899,death,S,death,death,1
+0189,24,S0189,24681,kill; harm; slaughter,C,kill,kill; harm; slaughter,1
+0190,25,S0190,28201,mother,C,mother,mother,1
+0191,25,S0191,31311,"father, patriarch",C,father,father; patriarch,1
+0192,25,S0192,19979,please,C,please,please,1
+0193,25,S0193,21270,"bad, evil",MM,bad,bad; evil,2
+0194,25,S0194,28779,go; sojourn,C,go,go; sojourn,2
+0195,25,S0195,21152,earth goddess (pr. I àlà n.),I,earth goddess (pr. n.),earth goddess (pr. n.),1
+0196,25,S0196,21487,"sacred, holy, C sö forbidden",C,sacred,sacred; holy; forbidden,1
+0197,25,S0197,20206,"courtesan, O ṃgbǫtö prostitute, harlot",O,courtesan,courtesan; prostitute; harlot,1
+0198,25,S0198,20309,"to rain, precipitation, C zó hail from the sky",C,to rain,to rain; precipitation; hail from the sky,1
+0199,25,S0199,33457,"me, myself",C,me,me; myself,1
+0200,25,S0200,20339,you,C,you,you,2
+0201,25,S0201,20385,argue; quarrel; be O sè in disagreement,O,argue,argue; quarrel; be in disagreement,1
+0202,25,S0202,26524,strength; energy,C,strength,strength; energy,2
+0203,25,S0203,27827,sweet; be sweet; be flavourful,FMM,sweet,sweet; be sweet; be flavourful,1
+0204,25,S0204,33499,"cold, chill, freeze",C,cold,cold; chill; freeze,1
+0205,25,S0205,31185,regional deity,C,regional deity,regional deity,1
+0206,25,S0206,26550,"money, currency",C,money,money; currency,1
+0207,25,S0207,22799,"running, chase, run, C ösö quick, fast, race",C,running,running; chase; run; quick; fast; race,1
+0208,25,S0208,33655,"smoke, fumes, air C ánwųrų pollution",C,smoke,smoke; fumes; air pollution,1
+0209,25,S0209,33775,"say, said",C,say,say; said,1
+0210,25,S0210,33747,us; we,C,us,us; we,1
+0211,25,S0211,36008,oil,C,oil,oil,1
+0212,25,S0212,28198,"be sick, suffer, 渦 1rìà ill; to be troubled, O 2ö渦 (ö:rįà) tormented; sickness",O,be sick,be sick; suffer; ill; to be troubled; tormented; sickness,1
+0213,25,S0213,36942,"spring [from rock], O íyí stream",O,spring [from rock],spring [from rock]; stream,1
+0214,25,S0214,23233,have sex,O,have sex,have sex,1
+0215,25,S0215,26247,"back, behind",C,back,back; behind,1
+0216,25,S0216,31117,"descend, come C wútù down",C,descend,descend; come down,1
+0217,25,S0217,38772,queen,C,queen,queen,1
+0218,26,S0218,23521,"take, snatch",PC,take,take; snatch,1
+0219,26,S0219,27468,come together; link,C,come together,come together; link,1
+0220,26,S0220,31623,womans,C,womans,womans,1
+0221,26,S0221,31292,hand; arm,O,hand,hand; arm,1
+0222,26,S0222,35506,fist; knuckle; boxing,N,fist,fist; knuckle; boxing,1
+0223,26,S0223,34442,wrist,C,wrist,wrist,1
+0224,26,S0224,29273,dwarf,PC,dwarf,dwarf,1
+0225,26,S0225,29926,mortar,O,mortar,mortar,2
+0226,26,S0226,25105,"bee, bees",MM,bee,bee; bees,1
+0227,26,S0227,30011,"particle, fruit; fruit",C,particle,particle; fruit,2
+0228,26,S0228,33469,leprosy,O,leprosy,leprosy,1
+0229,26,S0229,36032,cow,S,cow,cow,1
+0230,26,S0230,38597,wound; scar,S,wound,wound; scar,1
+0231,26,S0231,39187,village,C,village,village,2
+0232,26,S0232,20171,kite (bird),S,kite (bird),kite (bird),1
+0233,26,S0233,28784,slit drum,S,slit drum,slit drum,2
+0234,26,S0234,22238,egg; delicate,C,egg,egg; delicate,1
+0235,26,S0235,20250,comb,O,comb,comb,2
+0236,26,S0236,24555,thought,C,thought,thought,1
+0237,26,S0237,25106,third child,C,third child,third child,1
+0238,26,S0238,25913,virgin; girl,C,virgin,virgin; girl,1
+0239,26,S0239,24618,in-law (n.),C,in-law (n.),in-law (n.),1
+0240,26,S0240,25296,"inside, inner, in, PC ímé interior, enclosure",PC,inside,inside; inner; in; interior; enclosure,1
+0241,26,S0241,24724,bury (v.),S,bury (v.),bury (v.),1
+0242,26,S0242,28023,kitchen,C,kitchen,kitchen,1
+0243,26,S0243,30028,so that; lead to; allow; let,C,so that,so that; lead to; allow; let,1
+0244,26,S0244,30342,birth tradition; post- C ǫmügwǫ natal,C,birth tradition,birth tradition; post- natal,1
+0245,27,S0245,26800,menstruate,C,menstruate,menstruate,1
+0246,27,S0246,32117,"ask, query",C,ask,ask; query,1
+0247,27,S0247,38283,earth; dirt,S,earth,earth; dirt,1
+0248,27,S0248,38542,leave; exit; come 階 C fų out; escape; embark; produce,C,leave,leave; exit; come out; escape; embark; produce,3
+0249,27,S0249,22602,touch; feel; press; hit,PC,touch,touch; feel; press; hit,1
+0250,27,S0250,26999,infertile,C,infertile,infertile,1
+0251,27,S0251,35299,when; time,C,when,when; time,2
+0252,27,S0252,28528,time,C,time,time,3
+0253,27,S0253,22730,do; act,C,do,do; act,1
+0254,27,S0254,25040,dance; rhythm,C,dance,dance; rhythm,1
+0255,27,S0255,35559,flower,O,flower,flower,1
+0256,27,S0256,35997,enter,C,enter,enter,1
+0257,27,S0257,22806,of,C,of,of,1
+0258,27,S0258,21182,place; location; site; position,C,place,place; location; site; position,3
+0259,27,S0259,23475,"protect, shield",C,protect,protect; shield,2
+0260,27,S0260,23830,"think, reflect; C chè remember",C,think,think; reflect; remember,2
+0261,27,S0261,28079,eat; bite; chew,C,eat,eat; bite; chew,2
+0262,27,S0262,34903,fish; whale,C,fish,fish; whale,1
+0263,27,S0263,24936,"ease, easy",C,ease,ease; easy,1
+0264,27,S0264,33995,teach; support,C,teach,teach; support,1
+0265,27,S0265,35442,"cry, sob",C,cry,cry; sob,2
+0266,27,S0266,27010,eat; consume,C,eat,eat; consume,2
+0267,27,S0267,39608,tooth; teeth,C,tooth,tooth; teeth,1
+0268,27,S0268,22435,"face, façade; mask",PC,face,face; mask,1
+0269,27,S0269,26623,excrete,C,excrete,excrete,1
+0270,27,S0270,21508,"remove, take",C,remove,remove; take,1
+0271,27,S0271,35282,give; donate,S,give,give; donate,1
+0272,27,S0272,25313,hair,S,hair,hair,1
+0273,28,S0273,38761,beside; edge; side; corner,C,beside,beside; edge; side; corner,1
+0274,28,S0274,26684,"give birth, procreate",C,give birth,give birth; procreate,1
+0275,28,S0275,26680,twist; turn; change; tornado,PC,twist,twist; turn; change; tornado,2
+0276,28,S0276,27579,bronze,C,bronze,bronze,1
+0277,28,S0277,37101,gold; yellow,C,gold,gold; yellow,1
+0278,28,S0278,35226,"well, correct, proper, C ǫhümá right",C,well,well; correct; proper; right,1
+0279,28,S0279,36611,"vegetable, plant",C,vegetable,vegetable; plant,1
+0280,28,S0280,38548,"inflict, infect pass C má on, affect",C,inflict,inflict; infect pass on; affect,1
+0281,28,S0281,38307,"chair, seat; stool",O,chair,chair; seat; stool,1
+0282,28,S0282,30906,toad,S,toad,toad,1
+0283,28,S0283,29554,"bag, sack, luggage",S,bag,bag; sack; luggage,1
+0284,28,S0284,22151,womb,O,womb,womb,1
+0285,28,S0285,31339,"lift, carry",C,lift,lift; carry,1
+0286,28,S0286,23398,precede; first,C,precede,precede; first,1
+0287,28,S0287,23731,bless; invoke upon,C,bless,bless; invoke upon,1
+0288,28,S0288,38989,downward; falling; descend; demolish; reduce,C,downward,downward; falling; descend; demolish; reduce,1
+0289,28,S0289,38990,"first, precede, 顎 start; ancient, past; before; first, beginning",C,first,first; precede; start; ancient; past; before; beginning,1
+0290,28,S0290,25499,bread; plantain C àchìchà flakes,C,bread,bread; plantain flakes,1
+0291,28,S0291,28511,refuse; deny,C,refuse,refuse; deny,1
+0292,28,S0292,25324,be arrogant,C,be arrogant,be arrogant,1
+0293,28,S0293,27963,goat,S,goat,goat,1
+0294,28,S0294,21917,a greeting; thank 喝 C ǹdéewó you; good bye; I understand,C,a greeting,a greeting; thank you; good bye; understand,1
+0295,28,S0295,28167,first son; main man,C,first son,first son; main man,1
+0296,28,S0296,21106,first daughter; head C àdá woman,C,first daughter,first daughter; head woman,1
+0297,28,S0297,33883,"king [regional]; C òbí mayor, governor",C,king [regional],king [regional]; mayor; governor,1
+0298,28,S0298,28369,what [interrogative],C,what [interrogative],what [interrogative],1
+0299,28,S0299,35088,"street, road, open 褐 C ókpóró road, highway; middle of the road",C,street,street; road; open road; highway; middle of the road,1
+0300,28,S0300,36676,cross; pass; speed past,C,cross,cross; pass; speed past,1
+0301,29,S0301,19988,"climb, crawl up",C,climb,climb; crawl up,1
+0302,29,S0302,26666,cycle; movement,C,cycle,cycle; movement,1
+0303,29,S0303,37340,,C,,,0
+0304,29,S0304,37772,sleep,O,sleep,sleep,2
+0305,29,S0305,21000,"mistake, accident",C,mistake,mistake; accident,1
+0306,29,S0306,24178,cry; shout; bleat,PC,cry,cry; shout; bleat,2
+0307,29,S0307,21002,"debt, payment, C ügwö salary",C,debt,debt; payment; salary,1
+0308,29,S0308,29976,calabash,C,calabash,calabash,1
+0309,29,S0309,27735,"to pain, be in pain",O,to pain,to pain; be in pain,1
+0310,29,S0310,32566,yellow; golden,C,yellow,yellow; golden,1
+0311,29,S0311,23436,marry,C,marry,marry,1
+0312,29,S0312,32925,write,C,write,write,1
+0313,29,S0313,23448,bone,S,bone,bone,1
+0314,29,S0314,20896,"sleep, be C ḧí unconscious",C,sleep,sleep; be unconscious,2
+0315,29,S0315,24059,medicine; charm; S ögwų poison,S,medicine,medicine; charm; poison,1
+0316,29,S0316,30475,grow big; grow C fat; fat (n.),C,grow big,grow big; grow fat; fat (n.),2
+0317,29,S0317,38501,"gossip, idle talk",C,gossip,gossip; idle talk,1
+0318,29,S0318,20094,cat; feline,C,cat,cat; feline,1
+0319,29,S0319,21208,today,C,today,today,1
+0320,29,S0320,24739,tomorrow,C,tomorrow,tomorrow,1
+0321,29,S0321,36011,married woman,C,married woman,married woman,1
+0322,29,S0322,23506,space; outdoors,C,space,space; outdoors,2
+0323,29,S0323,21914,butterfly; moth,C,butterfly,butterfly; moth,1
+0324,29,S0324,22570,"fill; full; enough, C zú limit",C,fill,fill; full; enough; limit,2
+0325,29,S0325,25563,"go, embark, walk",C,go,go; embark; walk,2
+0326,29,S0326,25954,copy,PC,copy,copy,1
+0327,29,S0327,26874,originate; from; pass; divert; method; how; via,C,originate,originate; from; pass; divert; method; how; via,1
+0328,29,S0328,27454,"be bitter, strong C lú taste, sour",C,be bitter,be bitter; strong taste; sour,1
+0329,30,S0329,38291,"commit, wedding; betroth",C,commit,commit; wedding; betroth,1
+0330,30,S0330,38289,lay down; horizontal; be C dínà intimate; friendly relations; have sex,C,lay down,lay down; horizontal; be intimate; friendly relations; have sex,1
+0331,30,S0331,26032,"new, like new; C öḣürü reborn; clean",C,new,new; like new; reborn; clean,1
+0332,30,S0332,21223,"proverb, adage, C ílú wisdom, philosophy",C,proverb,proverb; adage; wisdom; philosophy,1
+0333,30,S0333,23515,"jump, jump over",C,jump,jump; jump over,1
+0334,30,S0334,24185,"visitor, foreigner",C,visitor,visitor; foreigner,1
+0335,30,S0335,24863,"count, calculate, C gü note; read",C,count,count; calculate; note; read,1
+0336,30,S0336,28450,"shooting star; suddenly; immediately; meteor, asteroid",S,shooting star,shooting star; suddenly; immediately; meteor; asteroid,1
+0337,30,S0337,27424,thing; of; the,PC,thing,thing; of; the,1
+0338,30,S0338,38306,elephant,C,elephant,elephant,1
+0339,30,S0339,32233,horse,C,horse,horse,1
+0340,30,S0340,25022,call; name; blame; indict; insult,C,call,call; name; blame; indict; insult,1
+0341,30,S0341,36996,"order; line, 還 ‘arrangement; organisation; system",MM,order,order; line; organisation; system,2
+0342,30,S0342,39208,pillar; column,C,pillar,pillar; column,1
+0343,30,S0343,29872,"greater than; 環 C ká supersede, dominate, be bigger",C,greater than,greater than; supersede; dominate; be bigger,1
+0344,30,S0344,31777,"head, leader, first, C ísí beginning",C,head,head; leader; first; beginning,1
+0345,30,S0345,35251,concerning; concerns; care,C,concerning,concerning; concerns; care,1
+0346,30,S0346,38867,like; resemble; copy,PC,like,like; resemble; copy,1
+0347,30,S0347,33382,"still, continue",PC,still,still; continue,1
+0348,30,S0348,20024,"know, learn",C,know,know; learn,1
+0349,30,S0349,21547,elephantiasis,O,elephantiasis,elephantiasis,1
+0350,30,S0350,24067,"cloth, fabric, S textile; table cloth",S,cloth,cloth; fabric; textile; table cloth,1
+0351,30,S0351,23736,weave; plait,C,weave,weave; plait,1
+0352,30,S0352,23721,"clothing, clothes",C,clothing,clothing; clothes,1
+0353,30,S0353,29609,"flag, banner",C,flag,flag; banner,1
+0354,30,S0354,35201,search; want; long; desperate C chö for; require; desire; seek,C,search,search; want; long; desperate for; require; desire; seek,2
+0355,30,S0355,30524,pot,C,pot,pot,1
+0356,30,S0356,38929,body; torso,C,body,body; torso,1
+0357,31,S0357,35441,"blood; red, reddish",C,blood,blood; red; reddish,1
+0358,31,S0358,28010,look; watch; stare; seek; observe; monitor; govern; manage,C,look,look; watch; stare; seek; observe; monitor; govern; manage,1
+0359,31,S0359,24266,"what; how much, which 2ò廊 (ò:lé) one",PC,what,what; how much; which one,1
+0360,31,S0360,27004,"mister, sir",C,mister,mister; sir,1
+0361,31,S0361,28431,evening; dusk,C,evening,evening; dusk,3
+0362,31,S0362,31840,die; decease; end,C,die,die; decease; end,1
+0363,31,S0363,37682,fear; danger; hazard; terrible,C,fear,fear; danger; hazard; terrible,2
+0364,31,S0364,40595,ocean,C,ocean,ocean,1
+0365,31,S0365,35542,middle; centre,C,middle,middle; centre,2
+0366,31,S0366,21644,protest; shout; be annoyed; attack; protest,C,protest,protest; shout; be annoyed; attack,1
+0367,31,S0367,38996,anger,C,anger,anger,2
+0368,31,S0368,39000,you,C,you,you,2
+0369,31,S0369,21517,name; reputation,C,name,name; reputation,1
+0370,31,S0370,20225,albino,C,albino,albino,1
+0371,31,S0371,20238,"left (n.), common C ękpę hand",C,left (n.),left (n.); common hand,1
+0372,31,S0372,40736,rat,FMM,rat,rat,1
+0373,31,S0373,21057,live; exist; inhabit; dwell,PC,live,live; exist; inhabit; dwell,1
+0374,31,S0374,21361,poison,S,poison,poison,1
+0375,31,S0375,26426,"leave, escape",C,leave,leave; escape,3
+0376,31,S0376,27671,"shout, volume, loud, C ḿkpú noise",C,shout,shout; volume; loud; noise,2
+0377,31,S0377,23696,stuff; join; wedge,C,stuff,stuff; join; wedge,1
+0378,31,S0378,24076,enter something 希 C tí into; put; place; enter,C,enter something into,enter something into; put; place; enter,1
+0379,31,S0379,24524,free born; citizen,O,free born,free born; citizen,1
+0380,31,S0380,27773,stand; rise; arise; stand up,C,stand,stand; rise; arise; stand up,2
+0381,31,S0381,22855,fire wood; stick; wood; board; slats,S,fire wood,fire wood; stick; wood; board; slats,1
+0382,31,S0382,31048,bush rat,C,bush rat,bush rat,1
+0383,31,S0383,23395,shield (n.),C,shield (n.),shield (n.),1
+0384,31,S0384,32000,"shout, cry out",C,shout,shout; cry out,2
+0385,32,S0385,36556,hunting,C,hunting,hunting,1
+0386,32,S0386,26082,wear; dress in; clothe; wear; hang,C,wear,wear; dress in; clothe; hang,1
+0387,32,S0387,35352,a deity,C,a deity,a deity,1
+0388,32,S0388,36215,borrow,C,borrow,borrow,3
+0389,32,S0389,39138,soap,O,soap,soap,1
+0390,32,S0390,39740,sea,C,sea,sea,1
+0391,32,S0391,24112,stay; remain; present in; in; on; sit down,C,stay,stay; remain; present in; in; on; sit down,1
+0392,32,S0392,22522,"sweep, clear, rake",C,sweep,sweep; clear; rake,2
+0393,32,S0393,23492,"to fight, struggle",C,to fight,to fight; struggle,1
+0394,32,S0394,35215,ear,C,ear,ear,1
+0395,32,S0395,20096,resemble; look like,C,resemble,resemble; look like,1
+0396,32,S0396,21916,small pox,C,small pox,small pox,1
+0397,32,S0397,24190,"meeting, C ìzù conference, summit",C,meeting,meeting; conference; summit,1
+0398,32,S0398,25582,tell account; say; discuss; describe,C,tell account,tell account; say; discuss; describe,1
+0399,32,S0399,26399,horns,C,horns,horns,1
+0400,32,S0400,26827,palm; palm wine,C,palm,palm; palm wine,2
+0401,32,S0401,36020,yes,C,yes,yes,1
+0402,32,S0402,26820,brain,C,brain,brain,1
+0403,32,S0403,27584,yam,S,yam,yam,2
+0404,32,S0404,26071,"noise, disturbance",C,noise,noise; disturbance,1
+0405,32,S0405,22120,describe; discuss; tell; say,C,describe,describe; discuss; tell; say,1
+0406,32,S0406,30079,a deity (pr. n.),C,a deity (pr. n.),a deity (pr. n.),1
+0407,32,S0407,36637,lightening,C,lightening,lightening,1
+0408,32,S0408,39438,crab,S,crab,crab,1
+0409,32,S0409,25216,"trade; industry, O ṃgbèrè market",O,trade,trade; industry; market,1
+0410,32,S0410,23452,"market, industry, áhíá business; goods",FMM,market,market; industry; business; goods,1
+0411,32,S0411,20605,"trader, O ṃgbèrèkè businessman",O,trader,trader; businessman,1
+0412,32,S0412,27450,vessel; boat; ship; vehicle,S,vessel,vessel; boat; ship; vehicle,1
+0413,33,S0413,32681,parrot,S,parrot,parrot,1
+0414,33,S0414,30097,"weaving frame, O ùtè loom",O,weaving frame,weaving frame; loom,1
+0415,33,S0415,20736,hunger,C,hunger,hunger,1
+0416,33,S0416,25135,tongue,C,tongue,tongue,1
+0417,33,S0417,25836,hang; suspend,C,hang,hang; suspend,2
+0418,33,S0418,29344,"toe, finger; cylinder",C,toe,toe; finger; cylinder,1
+0419,33,S0419,35696,"hold, use, have",C,hold,hold; use; have,1
+0420,33,S0420,33738,"awn (n.), goatee, 菊 C àhų moustache, beard, fibre",C,awn (n.),awn (n.); goatee; moustache; beard; fibre,1
+0421,33,S0421,21513,"pride, arrogance",C,pride,pride; arrogance,1
+0422,33,S0422,21931,language; speak; word; phrase,C,language,language; speak; word; phrase,1
+0423,33,S0423,35440,"talk, speak",C,talk,talk; speak,2
+0424,33,S0424,21364,saliva; spit,C,saliva,saliva; spit,1
+0425,33,S0425,23458,transport; pass; carry,C,transport,transport; pass; carry,1
+0426,33,S0426,24339,cheek (n.),PC,cheek (n.),cheek (n.),1
+0427,33,S0427,20241,children,C,children,children,2
+0428,33,S0428,31350,"baby, child",C,baby,baby; child,1
+0429,33,S0429,27875,"footprint, footsteps",C,footprint,footprint; footsteps,1
+0430,33,S0430,24613,"pull, tug, draw; C dö slimy",C,pull,pull; tug; draw; slimy,3
+0431,33,S0431,21560,"plate, dish, crockery",S,plate,plate; dish; crockery,1
+0432,33,S0432,32026,"metal, iron; machine",C,metal,metal; iron; machine,1
+0433,33,S0433,20037,python,O,python,python,1
+0434,33,S0434,31998,"walking stick, staff",O,walking stick,walking stick; staff,1
+0435,33,S0435,23470,grey; ash,C,grey,grey; ash,1
+0436,33,S0436,34384,"how, way, method",C,how,how; way; method,1
+0437,33,S0437,29699,good luck,C,good luck,good luck,1
+0438,33,S0438,32102,forest,C,forest,forest,1
+0439,33,S0439,21957,"squeeze, squint, 嗅 C rö cut eye, give the evil eye",C,squeeze,squeeze; squint; cut eye; give the evil eye,1
+0440,33,S0440,33276,"bite, gash",C,bite,bite; gash,1
+0441,34,S0441,21450,"escort, lead, guide, 及 O dú accompany, follow, safeguard",O,escort,escort; lead; guide; accompany; follow; safeguard,1
+0442,34,S0442,33050,"endure, C endurance; try hard, best",C,endure,endure; endurance; try hard; best,1
+0443,34,S0443,19992,try; attempt,PC,try,try; attempt,1
+0444,34,S0444,29275,"beginnings, long, 牛 1 ökpų past; endless, eternity, forever",C,beginnings,beginnings; long; past; endless; eternity; forever,1
+0445,34,S0445,21435,peace,C,peace,peace,1
+0446,34,S0446,31406,garden; yard; park,C,garden,garden; yard; park,1
+0447,34,S0447,36870,boundary,C,boundary,boundary,1
+0448,34,S0448,24040,border; edge; bank,C,border,border; edge; bank,1
+0449,34,S0449,23621,bundle,C,bundle,bundle,1
+0450,34,S0450,25298,limb; armpit,N,limb,limb; armpit,1
+0451,34,S0451,26087,"lick, drink, consume",C,lick,lick; drink; consume,1
+0452,34,S0452,25312,ash; powder,C,ash,ash; powder,1
+0453,34,S0453,25369,lover,C,lover,lover,2
+0454,34,S0454,34394,tire; tube; pipe; rubbery enclosure,C,tire,tire; tube; pipe; rubbery enclosure,1
+0455,34,S0455,35377,entice,C,entice,entice,1
+0456,34,S0456,26429,"are, that, is (aux. v.)",PC,are,are; that; is (aux. v.),2
+0457,34,S0457,36317,"negative of are, is PC náa (aux. v.)",PC,negative of are,negative of are; is (aux. v.),1
+0458,34,S0458,39770,are; that; is,C,are,are; that; is,2
+0459,34,S0459,24481,"archery, arrow",C,archery,archery; arrow,1
+0460,34,S0460,20982,them; them,C,them,them,1
+0461,34,S0461,28417,law; act,C,law,law; act,1
+0462,34,S0462,20849,"clear by cutting, C sü weed (v.)",C,clear by cutting,clear by cutting; weed (v.),1
+0463,34,S0463,29378,"voice; dialect, 狂 C ólú language, singing voice",C,voice,voice; dialect; language; singing voice,1
+0464,34,S0464,20140,"different, individual, C íchè unique, independent",C,different,different; individual; unique; independent,1
+0465,34,S0465,20139,grow; be tall,C,grow,grow; be tall,1
+0466,34,S0466,23777,"only, solitary (ad. C náanïi v.); just",C,only,only; solitary (ad. v.); just,2
+0467,34,S0467,21332,brass,C,brass,brass,1
+0468,34,S0468,27841,silver,C,silver,silver,1
+0469,35,S0469,21483,farm,C,farm,farm,2
+0470,35,S0470,25504,"scratch, itch, erase, PC kö tear, engrave",PC,scratch,scratch; itch; erase; tear; engrave,3
+0471,35,S0471,38972,beg; ask; pray,S,beg,beg; ask; pray,1
+0472,35,S0472,27713,"soup, sauce",C,soup,soup; sauce,1
+0473,35,S0473,20081,move; cause,C,move,move; cause,4
+0474,35,S0474,39749,charm,C,charm,charm,1
+0475,35,S0475,21610,curse; trick; bewitch,C,curse,curse; trick; bewitch,1
+0476,35,S0476,19990,"world, known C ųwà universe",C,world,world; known universe,1
+0477,35,S0477,25448,leave; abandon; ditch; quit; bequeath,C,leave,leave; abandon; ditch; quit; bequeath,3
+0478,35,S0478,22475,fill; full; stock; pack; crowd; inundate,C,fill,fill; full; stock; pack; crowd; inundate,2
+0479,35,S0479,21496,lead [in politics]; 司 C chï ‘campaign; govern; rule,C,lead [in politics],lead [in politics]; govern; rule,1
+0480,35,S0480,40653,corn,C,corn,corn,1
+0481,35,S0481,35930,"pig, pork",C,pig,pig; pork,1
+0482,35,S0482,22411,purple,C,purple,purple,1
+0483,35,S0483,34502,maggot,C,maggot,maggot,1
+0484,35,S0484,35475,"pledge, covenant, 誓 testament, C àgbà appointment, schedule, contract",C,pledge,pledge; covenant; testament; appointment; schedule; contract,2
+0485,35,S0485,20693,servant; henchman; sidekick; agent; follower; handyman,C,servant,servant; henchman; sidekick; agent; follower; handyman,1
+0486,35,S0486,25524,"catch hold, snare",C,catch hold,catch hold; snare,1
+0487,35,S0487,26009,"space, freedom; 料 C óhèrè outskirts; opportunity",C,space,space; freedom; outskirts; opportunity,2
+0488,35,S0488,29305,especially,C,especially,especially,1
+0489,35,S0489,32113,lineage; family 統 C ümųńà line; patrilineage,C,lineage,lineage; family line; patrilineage,1
+0490,35,S0490,36948,reach; arrive; attain,C,reach,reach; arrive; attain,1
+0491,35,S0491,30690,arrow,C,arrow,arrow,1
+0492,35,S0492,38666,spirits; ghost; 霊 ‘extraterrestrial; supernatural being; ‘toy,S,spirits,spirits; ghost; supernatural being,1
+0493,35,S0493,31995,history; genealogy,C,history,history; genealogy,1
+0494,35,S0494,36865,send,C,send,send,1
+0495,35,S0495,21205,"action, method, C ümë way; effect",C,action,action; method; way; effect,1
+0496,35,S0496,22900,"male, man [prefix]",C,male,male; man [prefix],2
+0497,36,S0497,37325,"heavy, hefty, C nyį difficult",C,heavy,heavy; hefty; difficult,1
+0498,36,S0498,34811,soldier ants,C,soldier ants,soldier ants,1
+0499,36,S0499,31561,"wait, guard; expect",C,wait,wait; guard; expect,1
+0500,36,S0500,29627,glass,C,glass,glass,1
+0501,36,S0501,25375,"listen, hear; understand",C,listen,listen; hear; understand,2
+0502,36,S0502,29421,"strike, nail",C,strike,strike; nail,2
+0503,36,S0503,24656,pour; spill,C,pour,pour; spill,1
+0504,36,S0504,24685,"hero, war general",C,hero,hero; war general,1
+0505,36,S0505,33016,since; for a long C ké time,C,since,since; for a long time,1
+0506,36,S0506,33029,yesterday; previously; past,C,yesterday,yesterday; previously; past,1
+0507,36,S0507,24375,"finish, end (v.); end (n.)",C,finish,finish; end (v.); end (n.),1
+0508,36,S0508,25945,hide,PC,hide,hide,1
+0509,36,S0509,37111,"to be, is",C,to be,to be; is,1
+0510,36,S0510,22659,shell,C,shell,shell,1
+0511,36,S0511,27211,"laziness, lazy",C,laziness,laziness; lazy,1
+0512,36,S0512,30703,pepper (n.),C,pepper (n.),pepper (n.),1
+0513,36,S0513,37857,"lose, lost, miss, C fù missing",C,lose,lose; lost; miss; missing,1
+0514,36,S0514,31478,"upset, hurt, sadden, C wú pain (v.)",C,upset,upset; hurt; sadden; pain (v.),1
+0515,36,S0515,38911,"anger, angry (v.; n.)",C,anger,anger,2
+0516,36,S0516,39514,gently; gentle; carefully; slowly; stabilise; stable,C,gently,gently; gentle; carefully; slowly; stabilise; stable,1
+0517,36,S0517,20208,"agree, attest, 仰 C kwé complicity; believe; have faith",C,agree,agree; attest; complicity; believe; have faith,1
+0518,36,S0518,26241,tripod; cooking C àkųkwà stand,C,tripod,tripod; cooking stand,1
+0519,36,S0519,26989,"favour, grace (n.)",C,favour,favour; grace (n.),1
+0520,36,S0520,20957,"thorn, barb, prickle",C,thorn,thorn; barb; prickle,1
+0521,36,S0521,26354,"affliction, distress",C,affliction,affliction; distress,1
+0522,36,S0522,23616,"dark, black",O,dark,dark; black,1
+0523,36,S0523,26997,"dry (v.), stiffen",C,dry (v.),dry (v.); stiffen,1
+0524,36,S0524,29577,,C,,,0
+0525,37,S0525,24062,"ache, throb",C,ache,ache; throb,1
+0526,37,S0526,26020,name (v.),C,name (v.),name (v.),1
+0527,37,S0527,22343,fly (v.),C,fly (v.),fly (v.),1
+0528,37,S0528,36817,divination deity C ágwü (pr. n.),C,divination deity (pr. n.),divination deity (pr. n.),1
+0529,37,S0529,33740,sheep,C,sheep,sheep,1
+0530,37,S0530,21220,chain,C,chain,chain,1
+0531,37,S0531,29748,sink; depth; deep,C,sink,sink; depth; deep,1
+0532,37,S0532,31563,rope; string,C,rope,rope; string,1
+0533,37,S0533,20677,tell; inform,C,tell,tell; inform,2
+0534,37,S0534,31105,"push, shove, make 禁 C kwá contact; make to fall down",C,push,push; shove; make contact; make to fall down,2
+0535,37,S0535,32202,"[ritual] oath, a C yí swear, pact, vow",C,[ritual] oath,[ritual] oath; a swear; pact; vow,1
+0536,37,S0536,37670,pick; grab; gather; choose; capture; wanting; lust; hunger,C,pick,pick; grab; gather; choose; capture; wanting; lust; hunger,2
+0537,37,S0537,35641,hang; hook (v.),C,hang,hang; hook (v.),2
+0538,37,S0538,35167,"firm, shut, firmly, C secure; roof",C,firm,firm; shut; firmly; secure; roof,1
+0539,37,S0539,21535,"that, those (p. n.; C áahų d.)",C,that,that,2
+0540,37,S0540,37504,sorcery,C,sorcery,sorcery,1
+0541,37,S0541,21306,"worry, stress, over C kà think",C,worry,worry; stress; over think,1
+0542,37,S0542,21477,"madness, insanity; 句 C árrá recklessness, immorality",C,madness,madness; insanity; recklessness; immorality,1
+0543,37,S0543,33510,"wrestle, wrestling",C,wrestle,wrestle; wrestling,1
+0544,37,S0544,39366,gong; bell,C,gong,gong; bell,2
+0545,37,S0545,20855,portion; share,C,portion,portion; share,1
+0546,37,S0546,24807,cure (v.); solve,C,cure (v.),cure (v.); solve,1
+0547,37,S0547,24858,close; stuff,C,close,close; stuff,2
+0548,37,S0548,31354,deities; magic,C,deities,deities; magic,1
+0549,37,S0549,20598,"to open, to close, C mè spread",C,to open,to open; to close; spread,1
+0550,37,S0550,36935,"row, paddle, N 2kp遇 (kp:é) steer; drive",N,row,row; paddle; steer; drive,2
+0551,37,S0551,38533,uphold; stand,C,uphold,uphold; stand,1
+0552,37,S0552,20018,"fate, destiny",C,fate,fate; destiny,1
+0553,38,S0553,23624,"collection, heap; pile",C,collection,collection; heap; pile,1
+0554,38,S0554,25496,small; little; bit; mini,C,small,small; little; bit; mini,1
+0555,38,S0555,31391,protect; save; safety,C,protect,protect; save; safety,2
+0556,38,S0556,29066,"little, miniscule, tiny, C kïrï small",C,little,little; miniscule; tiny; small,1
+0557,38,S0557,32368,set fire; blaze; ablaze,C,set fire,set fire; blaze; ablaze,1
+0558,38,S0558,21531,cook; boil; fry; heat,C,cook,cook; boil; fry; heat,2
+0559,38,S0559,35347,"tail; end, last",C,tail,tail; end; last,1
+0560,38,S0560,21234,ivory; elephant C ödü tusk,C,ivory,ivory; elephant tusk,1
+0561,38,S0561,34219,pool; pond; body PC ödö of water,PC,pool,pool; pond; body of water,1
+0562,38,S0562,36557,clump,PC,clump,clump,1
+0563,38,S0563,37089,lion,PC,lion,lion,1
+0564,38,S0564,32676,"remaining, left",C,remaining,remaining; left,1
+0565,38,S0565,20804,"pinch, poke",C,pinch,pinch; poke,1
+0566,38,S0566,21009,protection,C,protection,protection,1
+0567,38,S0567,24418,bond,C,bond,bond,1
+0568,38,S0568,24452,support,C,support,support,3
+0569,38,S0569,33550,praise; pay C já homage,C,praise,praise; pay homage,2
+0570,38,S0570,20418,periodically; at hand; now; today,C,periodically,periodically; at hand; now; today,2
+0571,38,S0571,22865,spread; infest,C,spread,spread; infest,1
+0572,38,S0572,35336,when; at that time; age; period,C,when,when; at that time; age; period,2
+0573,38,S0573,24693,sunrise; rise; dawn,C,sunrise,sunrise; rise; dawn,1
+0574,38,S0574,21843,will; going C 2啓台 (g:ï) to,C,will,will; going to,1
+0575,38,S0575,25522,"ancient, old person, C ágádí elderly",C,ancient,ancient; old person; elderly,2
+0576,38,S0576,28179,"orphan, destitute",C,orphan,orphan; destitute,1
+0577,38,S0577,32076,grudge; anger,C,grudge,grudge; anger,2
+0578,38,S0578,34509,poem; song; hymn,C,poem,poem; song; hymn,1
+0579,38,S0579,25964,ape; primate,C,ape,ape; primate,1
+0580,38,S0580,25908,leadership; rule,C,leadership,leadership; rule,1
+0581,39,S0581,26223,"another, next; again",C,another,another; next; again,1
+0582,39,S0582,36605,"drink, sip; consume",C,drink,drink; sip; consume,2
+0583,39,S0583,20670,plantation,C,plantation,plantation,1
+0584,39,S0584,25658,shrub,C,shrub,shrub,1
+0585,39,S0585,32153,"this, these (d.)",C,this,this; these (d.),1
+0586,39,S0586,35427,murder; corpse,MM,murder,murder; corpse,1
+0587,39,S0587,24950,flatness; horizontal,C,flatness,flatness; horizontal,1
+0588,39,S0588,25004,"be wide; spread, C sá ‘stretch; distribute",C,be wide,be wide; spread; distribute,1
+0589,39,S0589,31293,iroko fruit,C,iroko fruit,iroko fruit,1
+0590,39,S0590,25001,"trap, snare, net",C,trap,trap; snare; net,1
+0591,39,S0591,33464,cassava,C,cassava,cassava,2
+0592,39,S0592,36814,"wood, wooden, box, C ìbó coffin",C,wood,wood; wooden; box; coffin,2
+0593,39,S0593,40335,run; move; leak; flow,C,run,run; move; leak; flow,1
+0594,39,S0594,39912,wood,C,wood,wood,2
+0595,39,S0595,38553,excreta,PC,excreta,excreta,1
+0596,39,S0596,21127,king fisher,C,king fisher,king fisher,1
+0597,39,S0597,31166,have; possess,C,have,have; possess,1
+0598,39,S0598,25731,him; her; it,C,him,him; her; it,3
+0599,39,S0599,28608,him; it,C,him,him; it,3
+0600,39,S0600,35328,chase; follow,C,chase,chase; follow,1
+0601,39,S0601,35686,calm; stable; calmness,C,calm,calm; stable; calmness,1
+0602,39,S0602,26689,adultery,O,adultery,adultery,1
+0603,39,S0603,31348,imitation; example,C,imitation,imitation; example,1
+0604,39,S0604,34880,whisper; murmur,C,whisper,whisper; murmur,1
+0605,39,S0605,27770,quick; quickly; fast,C,quick,quick; quickly; fast,1
+0606,39,S0606,32080,stand; raise; lift,C,stand,stand; raise; lift,2
+0607,39,S0607,20625,"create, make",MM,create,create; make,1
+0608,39,S0608,28500,a little; a bit; -ish,N,a little,a little; a bit,1
+0609,40,S0609,20214,throw; move,N,throw,throw; move,2
+0610,40,S0610,21048,carry; scoop; fetch; move up,C,carry,carry; scoop; fetch; move up,1
+0611,40,S0611,32937,measure,C,measure,measure,2
+0612,40,S0612,24314,port; edge; opening,C,port,port; edge; opening,1
+0613,40,S0613,30740,air,C,air,air,1
+0614,40,S0614,30476,mirror,S,mirror,mirror,1
+0615,40,S0615,20537,twin; twins,PC,twin,twin; twins,1
+0616,40,S0616,20860,press; rub,C,press,press; rub,2
+0617,40,S0617,25331,wrap; tie; fasten,PC,wrap,wrap; tie; fasten,1
+0618,40,S0618,36562,leak,C,leak,leak,1
+0619,40,S0619,20581,announce,C,announce,announce,2
+0620,40,S0620,38522,larynx,S,larynx,larynx,1
+0621,40,S0621,22287,neck; hole; tube,C,neck,neck; hole; tube,1
+0622,40,S0622,22533,cough (v.); dry cough,C,cough (v.),cough (v.); dry cough,1
+0623,40,S0623,26908,breadfruit,PC,breadfruit,breadfruit,1
+0624,40,S0624,23244,island; isle,C,island,island; isle,1
+0625,40,S0625,29486,lamp; torch; lighter,S,lamp,lamp; torch; lighter,1
+0626,40,S0626,32121,coral,S,coral,coral,1
+0627,40,S0627,36963,"female, maiden",O,female,female; maiden,2
+0628,40,S0628,27177,bright metal; jewel; jewellery; metal bar; zinc; metal,S,bright metal,bright metal; jewel; jewellery; metal bar; zinc; metal,1
+0629,40,S0629,25010,bamboo,S,bamboo,bamboo,1
+0630,40,S0630,36066,horn; trumpet,O,horn,horn; trumpet,1
+0631,40,S0631,35609,"box, luggage",N,box,box; luggage,1
+0632,40,S0632,37749,ube fruit,S,ube fruit,ube fruit,1
+0633,40,S0633,32365,"long; tall; length; stilts, stilt dance",C,long,long; tall; length; stilts; stilt dance,1
+0634,40,S0634,38997,empty; zero; naught,N,empty,empty; zero; naught,1
+0635,40,S0635,39443,emptiness; vagabond; sell out; traitor; drifter,C,emptiness,emptiness; vagabond; sell out; traitor; drifter,1
+0636,41,S0636,25080,lizard,C,lizard,lizard,1
+0637,41,S0637,24187,"cane; whip; switch; club, weapon",S,cane,cane; whip; switch; club; weapon,1
+0638,41,S0638,29572,"whip (v.), flog",C,whip (v.),whip (v.); flog,1
+0639,41,S0639,24358,chewing stick; tooth brush; floss,O,chewing stick,chewing stick; tooth brush; floss,1
+0640,41,S0640,38480,drink; alcohol,S,drink,drink; alcohol,2
+0641,41,S0641,21407,print; create; produce; publish,C,print,print; create; produce; publish,1
+0642,41,S0642,33335,narrow,C,narrow,narrow,1
+0643,41,S0643,28187,pluck; pick,C,pluck,pluck; pick,2
+0644,41,S0644,28304,square; court; grounds; quad; plaza,C,square,square; court; grounds; quad; plaza,1
+0645,41,S0645,21427,town,C,town,town,1
+0646,41,S0646,24049,"stop, park",C,stop,stop; park,1
+0647,41,S0647,25144,week,C,week,week,1
+0648,41,S0648,21476,eagle,S,eagle,eagle,1
+0649,41,S0649,21628,hue; colour,C,hue,hue; colour,1
+0650,41,S0650,22266,"model, fashioned after, template, 固 C àtų muse, reference; comparison",C,model,model; fashioned after; template; muse; reference; comparison,1
+0651,41,S0651,32929,bend; twist,C,bend,bend; twist,2
+0652,41,S0652,23396,dog,C,dog,dog,1
+0653,41,S0653,24359,"bark, shout",C,bark,bark; shout,1
+0654,41,S0654,25925,"open (adj.), gaping, C ghé wide",C,open (adj.),open (adj.); gaping; wide,1
+0655,41,S0655,26543,cook; fry; burn,C,cook,cook; fry; burn,2
+0656,41,S0656,20491,easy; ease; passable; overcome able,C,easy,easy; ease; passable; overcome able,1
+0657,41,S0657,24235,separate; split,C,separate,separate; split,1
+0658,41,S0658,28246,energy; strength,C,energy,energy; strength,1
+0659,41,S0659,38599,length; distance,C,length,length; distance,1
+0660,41,S0660,35463,bad; ugly,O,bad,bad; ugly,2
+0661,41,S0661,40723,day,C,day,day,2
+0662,41,S0662,37678,grudge; envy; hate; jealousy; overlook; forgive; endure insult,C,grudge,grudge; envy; hate; jealousy; overlook; forgive; endure insult,2
+0663,42,S0663,39015,shrine; deity; divine,C,shrine,shrine; deity; divine,1
+0664,42,S0664,20114,move; run; drive; play,C,move,move; run; drive; play,4
+0665,42,S0665,21577,buttocks,N,buttocks,buttocks,1
+0666,42,S0666,24460,,N,,,0
+0667,42,S0667,23087,"fat, lard",N,fat,fat; lard,1
+0668,42,S0668,24735,strike; hit; smack; flog; beat; pump; drum,C,strike,strike; hit; smack; flog; beat; pump; drum,2
+0669,42,S0669,30849,change; exchange; spoil,C,change,change; exchange; spoil,2
+0670,42,S0670,35486,sorry; apologies; condolences,C,sorry,sorry; apologies; condolences,1
+0671,42,S0671,35492,prevent; block,C,prevent,prevent; block,1
+0672,42,S0672,35703,shade (n.),C,shade (n.),shade (n.),1
+0673,42,S0673,20844,answer (v.); answer name (v.),S,answer (v.),answer (v.); answer name (v.),1
+0674,42,S0674,21246,sweep; clean,PC,sweep,sweep; clean,2
+0675,42,S0675,23380,vertical; standing,C,vertical,vertical; standing,1
+0676,42,S0676,21151,"real, proper (adj.)",C,real,real; proper (adj.),1
+0677,42,S0677,24039,hundred,C,hundred,hundred,1
+0678,42,S0678,24195,thousand,C,thousand,thousand,1
+0679,42,S0679,30002,ancient; early; old; ago,C,ancient,ancient; early; old; ago,2
+0680,42,S0680,20132,soil; earth,C,soil,soil; earth,1
+0681,42,S0681,20809,guess (v.),C,guess (v.),guess (v.),1
+0682,42,S0682,21521,"straight; correct; good, ‘moral",C,straight,straight; correct; good,1
+0683,42,S0683,21518,track (n.),C,track (n.),track (n.),1
+0684,42,S0684,22909,boundary line,C,boundary line,boundary line,1
+0685,42,S0685,27743,"give way, yield",C,give way,give way; yield,1
+0686,42,S0686,32771,"reveal, unravel, C chá demystify",C,reveal,reveal; unravel; demystify,1
+0687,42,S0687,34892,cave,C,cave,cave,1
+0688,42,S0688,22353,hollow; pit; trench; gutter; dome,C,hollow,hollow; pit; trench; gutter; dome,1
+0689,42,S0689,23389,slim; trim; thin; tiny,C,slim,slim; trim; thin; tiny,1
+0690,42,S0690,25239,dry vegetation; dried leave; tumble C ákíríká weed; cardboard; card; board,C,dry vegetation,dry vegetation; dried leave; tumble weed; cardboard; card; board,1
+0691,43,S0691,25915,"grass, weed",C,grass,grass; weed,1
+0692,43,S0692,26356,wilderness; wild; bush; outskirts; foreign; forest; nature,C,wilderness,wilderness; wild; bush; outskirts; foreign; forest; nature,1
+0693,43,S0693,21177,laugh; smile; chuckle,C,laugh,laugh; smile; chuckle,2
+0694,43,S0694,24184,shellfish,C,shellfish,shellfish,1
+0695,43,S0695,25304,circle; round; circular; disk,C,circle,circle; round; circular; disk,1
+0696,43,S0696,32943,salt; salty,C,salt,salt; salty,1
+0697,43,S0697,20399,valley,C,valley,valley,1
+0698,43,S0698,21402,cup; cup in hand; cupping; carry; grab; scoop; enclose; take all; stowaway; store,C,cup,cup; cup in hand; cupping; carry; grab; scoop; enclose; take all; stowaway; store,2
+0699,43,S0699,24658,common; generic; everyday; ordinary; simple; plain; basic,C,common,common; generic; everyday; ordinary; simple; plain; basic,1
+0700,43,S0700,27946,"silence; ignore; quiet, silence",PC,silence,silence; ignore; quiet,2
+0701,43,S0701,30343,white (colour); C ǫchä clean; bright; blank,C,white (colour),white (colour); clean; bright; blank,1
+0702,43,S0702,32005,outdoors; outside; periphery; public; wild; feral; bush; forest,C,outdoors,outdoors; outside; periphery; public; wild; feral; bush; forest,1
+0703,43,S0703,33618,match; friend,C,match,match; friend,1
+0704,43,S0704,37066,poverty; poor; destitute,C,poverty,poverty; poor; destitute,1
+0705,43,S0705,39321,common C neighbour; peer; peer; age mate,C,common neighbour,common neighbour; peer; age mate,1
+0706,43,S0706,20505,pebble,C,pebble,pebble,1
+0707,43,S0707,26657,sound; effect,C,sound,sound; effect,1
+0708,43,S0708,32789,borrow,C,borrow,borrow,3
+0709,43,S0709,33322,lower,C,lower,lower,1
+0710,43,S0710,36002,confess,C,confess,confess,1
+0711,43,S0711,38477,cross (n.),C,cross (n.),cross (n.),1
+0712,43,S0712,39640,"mix, stir",C,mix,mix; stir,2
+0713,43,S0713,24247,shape; size,C,shape,shape; size,1
+0714,43,S0714,25511,"number, call",C,number,number; call,1
+0715,43,S0715,26775,vehicle; wheel; baby walker,C,vehicle,vehicle; wheel; baby walker,1
+0716,43,S0716,40644,"study, learn",C,study,study; learn,1
+0717,43,S0717,21897,rest; recharge; charge,C,rest,rest; recharge; charge,1
+0718,44,S0718,24908,mist; haze; cloudiness,C,mist,mist; haze; cloudiness,1
+0719,44,S0719,28207,festival,C,festival,festival,1
+0720,44,S0720,30828,change; return; reverse; subvert,C,change,change; return; reverse; subvert,2
+0721,44,S0721,32094,overtake; pass; surpass; change; turn; tornado (n.),C,overtake,overtake; pass; surpass; change; turn; tornado (n.),1
+0722,44,S0722,38917,"mature, become C ká old, age (v.)",C,mature,mature; become old; age (v.),1
+0723,44,S0723,28317,far side of river/road,C,far side of river/road,far side of river/road,1
+0724,44,S0724,37489,near; close; soon,C,near,near; close; soon,1
+0725,44,S0725,27083,colour; color,C,colour,colour; color,1
+0726,44,S0726,32177,attitude; character; attribute; feature; behaviour; property,PC,attitude,attitude; character; attribute; feature; behaviour; property,1
+0727,44,S0727,37237,plan; meet,C,plan,plan; meet,1
+0728,44,S0728,31295,cane rat,C,cane rat,cane rat,1
+0729,44,S0729,34913,million,C,million,million,1
+0730,44,S0730,37628,mosquito,C,mosquito,mosquito,1
+0731,44,S0731,35611,floor; storey,C,floor,floor; storey,1
+0732,44,S0732,36092,sell; auction,C,sell,sell; auction,1
+0733,44,S0733,20062,noon,C,noon,noon,1
+0734,44,S0734,21495,evening,C,evening,evening,3
+0735,44,S0735,21512,"age-set, age group",FMM,age-set,age-set; age group,1
+0736,44,S0736,25335,smell (v.),PC,smell (v.),smell (v.),1
+0737,44,S0737,21083,"restore, well",C,restore,restore; well,1
+0738,44,S0738,20658,"hear, perceive",C,hear,hear; perceive,1
+0739,44,S0739,35946,repair; correct; manage; restore; maintain,C,repair,repair; correct; manage; restore; maintain,1
+0740,44,S0740,20811,descent; family; lineage,C,descent,descent; family; lineage,1
+0741,44,S0741,21578,"slope, descent",N,slope,slope; descent,1
+0742,44,S0742,35895,turn,C,turn,turn,1
+0743,44,S0743,21051,paddle,C,paddle,paddle,1
+0744,44,S0744,22269,swamp,C,swamp,swamp,2
+0745,44,S0745,40658,fame,C,fame,fame,1
+0746,45,S0746,31296,"abroad, over the C ùfèsì water, overseas",C,abroad,abroad; over the water; overseas,1
+0747,45,S0747,37239,"cloudiness, C bìrì dimness",C,cloudiness,cloudiness; dimness,1
+0748,45,S0748,29508,"tan, take in sun, C nyáa warm, burn",C,tan,tan; take in sun; warm; burn,1
+0749,45,S0749,39592,type; sort; kind; species; property,C,type,type; sort; kind; species; property,1
+0750,45,S0750,39378,morning,C,morning,morning,1
+0751,45,S0751,36796,friend; lover; partner,C,friend,friend; lover; partner,1
+0752,45,S0752,38915,expire; spoil; stale,C,expire,expire; spoil; stale,1
+0753,45,S0753,20170,rock; stone; pebble; whetstone; phallic; phallus,C,rock,rock; stone; pebble; whetstone; phallic; phallus,1
+0754,45,S0754,22256,soften; smooth,C,soften,soften; smooth,2
+0755,45,S0755,26118,cloud,C,cloud,cloud,1
+0756,45,S0756,24680,fan; blow; breeze; spray,C,fan,fan; blow; breeze; spray,1
+0757,45,S0757,26681,vulture,C,vulture,vulture,1
+0758,45,S0758,23130,grasshopper,C,grasshopper,grasshopper,1
+0759,45,S0759,28151,"spade, short shovel",C,spade,spade; short shovel,1
+0760,45,S0760,30165,pick; pluck; pinch; strum,C,pick,pick; pluck; pinch; strum,2
+0761,45,S0761,32058,"joke, friendly joking, C ńjàkïrï tease",C,joke,joke; friendly joking; tease,1
+0762,45,S0762,22718,"a walk, 墾 1 ųkpá friendship; wandering; strolling; pity",C,a walk,a walk; friendship; wandering; strolling; pity,1
+0763,45,S0763,25031,height; tallness,C,height,height; tallness,1
+0764,45,S0764,24038,break; smash; strike; explode,C,break,break; smash; strike; explode,1
+0765,45,S0765,20304,grow big; thicken; strengthen,C,grow big,grow big; thicken; strengthen,2
+0766,45,S0766,27801,"ripen, mature",C,ripen,ripen; mature,1
+0767,45,S0767,26619,be far; distant; distant in time; long in time; far,C,be far,be far; distant; distant in time; long in time; far,1
+0768,45,S0768,30722,"draw, illustrate. film, C sè take photo",C,draw,draw; illustrate. film; take photo,1
+0769,45,S0769,21766,useful; profitable,C,useful,useful; profitable,1
+0770,45,S0770,35408,cotton,C,cotton,cotton,1
+0771,45,S0771,37782,banana,C,banana,banana,1
+0772,45,S0772,24231,cotton tree,C,cotton tree,cotton tree,1
+0773,45,S0773,25387,"equalise, equate, C hà equal",C,equalise,equalise; equate; equal,1
+0774,46,S0774,25165,"suffer, suffering, C áfüfü trouble, difficulty",C,suffer,suffer; suffering; trouble; difficulty,1
+0775,46,S0775,20877,in-law; be related 再 C gǫ by marriage; bride wealth; bride price,C,in-law,in-law; be related by marriage; bride wealth; bride price,1
+0776,46,S0776,28797,set up; keep; maintain; restore,C,set up,set up; keep; maintain; restore,1
+0777,46,S0777,22971,sign; mark; insignia; character; sign; omen; pattern,C,sign,sign; mark; insignia; character; omen; pattern,1
+0778,46,S0778,37319,exit,C,exit,exit,1
+0779,46,S0779,30741,tick,C,tick,tick,1
+0780,46,S0780,23472,spear grass,C,spear grass,spear grass,1
+0781,46,S0781,24425,creeping grass,C,creeping grass,creeping grass,1
+0782,46,S0782,25505,"dizzy, disorientated",C,dizzy,dizzy; disorientated,1
+0783,46,S0783,28168,press; hit; gather; constrict,C,press,press; hit; gather; constrict,2
+0784,46,S0784,31085,snore,C,snore,snore,1
+0785,46,S0785,25998,lose flavour; tasteless; stale,C,lose flavour,lose flavour; tasteless; stale,1
+0786,46,S0786,32048,chill; cool; open space by the 2ö細 (ö:wǫlį) river or stream,C,chill,chill; cool; open space by the river or stream,1
+0787,46,S0787,33756,waterfall,C,waterfall,waterfall,1
+0788,46,S0788,26368,wonder; amazing; full of ora; unbelievable; out of the question,C,wonder,wonder; amazing; full of ora; unbelievable; out of the question,1
+0789,46,S0789,35009,"plentiful, plenty, C ńé large, many",C,plentiful,plentiful; plenty; large; many,1
+0790,46,S0790,20661,wool,C,wool,wool,1
+0791,46,S0791,20652,mimic (v.),C,mimic (v.),mimic (v.),1
+0792,46,S0792,22622,rice,C,rice,rice,1
+0793,46,S0793,27507,borrow,C,borrow,borrow,3
+0794,46,S0794,36617,geek; nerd; lame; weakling,C,geek,geek; nerd; lame; weakling,1
+0795,46,S0795,38555,mix; grind; mash,C,mix,mix; grind; mash,2
+0796,46,S0796,22524,"act stupid, stupidity, C zúzù procrastinate",C,act stupid,act stupid; stupidity; procrastinate,1
+0797,46,S0797,22312,weakness; fault; flaw; defect; handicap,C,weakness,weakness; fault; flaw; defect; handicap,1
+0798,46,S0798,26448,row; line,C,row,row; line,2
+0799,46,S0799,21092,"line, stroke; C ńdìlì boundary",C,line,line; stroke; boundary,1
+0800,46,S0800,36001,,C,,,0
+0801,46,S0801,32618,"hindrance, C ǫdàchì blockage",C,hindrance,hindrance; blockage,1
+0802,47,S0802,23822,"office, position; C ökwá announcement",C,office,office; position; announcement,1
+0803,47,S0803,20316,"family, relative",C,family,family; relative,2
+0804,47,S0804,21066,bed,C,bed,bed,1
+0805,47,S0805,26152,cocoyam,C,cocoyam,cocoyam,1
+0806,47,S0806,26613,"design; mark; sign; art, craft",C,design,design; mark; sign; art; craft,1
+0807,47,S0807,32034,lie; deceive,C,lie,lie; deceive,3
+0808,47,S0808,31574,scatter; repeat,C,scatter,scatter; repeat,1
+0809,47,S0809,37218,pledge; mortgage; hostage; collateral,C,pledge,pledge; mortgage; hostage; collateral,2
+0810,47,S0810,25662,shoulder,C,shoulder,shoulder,1
+0811,47,S0811,37679,foreleg,PC,foreleg,foreleg,1
+0812,47,S0812,21682,stale,C,stale,stale,1
+0813,47,S0813,20874,fishing net,C,fishing net,fishing net,1
+0814,47,S0814,26413,waterside,C,waterside,waterside,1
+0815,47,S0815,21047,residential unit; tribe; lineage,C,residential unit,residential unit; tribe; lineage,1
+0816,47,S0816,21049,night; darkness; dark; evening; eve; night before,C,night,night; darkness; dark; evening; eve; night before,2
+0817,47,S0817,25334,announce; proclaim; report; bulletin,C,announce,announce; proclaim; report; bulletin,2
+0818,47,S0818,27578,sandbank; beach,C,sandbank,sandbank; beach,1
+0819,47,S0819,23519,shoe,C,shoe,shoe,1
+0820,47,S0820,25774,chicken; cockatrice,C,chicken,chicken; cockatrice,1
+0821,47,S0821,25830,harmattan,C,harmattan,harmattan,1
+0822,47,S0822,38609,bush,C,bush,bush,2
+0823,47,S0823,30399,"witch, vampire",C,witch,witch; vampire,1
+0824,47,S0824,23665,wizard; sorcerer,C,wizard,wizard; sorcerer,1
+0825,47,S0825,21442,carpenter; carpentry,C,carpenter,carpenter; carpentry,1
+0826,47,S0826,26719,drawing; sketch; portrait; art,C,drawing,drawing; sketch; portrait; art,1
+0827,47,S0827,34453,pull; draw; drag; tug,C,pull,pull; draw; drag; tug,3
+0828,47,S0828,24808,seduce,C,seduce,seduce,1
+0829,47,S0829,29987,shadow,C,shadow,shadow,1
+0830,48,S0830,20632,uproot; weed,C,uproot,uproot; weed,1
+0831,48,S0831,25955,temptation,C,temptation,temptation,1
+0832,48,S0832,31639,season,C,season,season,2
+0833,48,S0833,37240,cut; snip; end,C,cut,cut; snip; end,2
+0834,48,S0834,36059,go up; climb; crawl,C,go up,go up; climb; crawl,1
+0835,48,S0835,27531,condition; position; rank; state; seat,C,condition,condition; position; rank; state; seat,1
+0836,48,S0836,26283,tools; luggage,C,tools,tools; luggage,1
+0837,48,S0837,22763,health,C,health,health,1
+0838,48,S0838,25903,bank; waterside; riverside,C,bank,bank; waterside; riverside,1
+0839,48,S0839,27490,borrowing,C,borrowing,borrowing,1
+0840,48,S0840,27663,knife,MF,knife,knife,1
+0841,48,S0841,20181,mud,C,mud,mud,1
+0842,48,S0842,21490,farm,C,farm,farm,2
+0843,48,S0843,24066,illumination; light; glow; ray,C,illumination,illumination; light; glow; ray,1
+0844,48,S0844,26088,heat; hot,C,heat,heat; hot,1
+0845,48,S0845,27515,spoil; become bad,C,spoil,spoil; become bad,1
+0846,48,S0846,31992,wash; rinse,C,wash,wash; rinse,1
+0847,48,S0847,33267,fishing,C,fishing,fishing,1
+0848,48,S0848,20282,play; play; celebrate,C,play,play; celebrate,1
+0849,48,S0849,24535,"laugh, smile (v.)",C,laugh,laugh; smile (v.),2
+0850,48,S0850,31169,drum,C,drum,drum,2
+0851,48,S0851,20351,choose; ordain,C,choose,choose; ordain,2
+0852,48,S0852,21050,mud wall,FMM,mud wall,mud wall,1
+0853,48,S0853,22987,wall,PC,wall,wall,1
+0854,48,S0854,22985,"jail, prison",S,jail,jail; prison,1
+0855,48,S0855,26525,creation,C,creation,creation,1
+0856,48,S0856,31049,return,C,return,return,1
+0857,48,S0857,32930,good; be good,C,good,good; be good,1
+0858,49,S0858,23039,goose,FMM,goose,goose,1
+0859,49,S0859,24605,nest,FMM,nest,nest,1
+0860,49,S0860,25351,family,C,family,family,2
+0861,49,S0861,26045,sing,MM,sing,sing,1
+0862,49,S0862,24107,wateryam,C,wateryam,wateryam,1
+0863,49,S0863,24675,skin; leather; membrane,C,skin,skin; leather; membrane,1
+0864,49,S0864,32025,pus,C,pus,pus,1
+0865,49,S0865,33026,bullet,PC,bullet,bullet,1
+0866,49,S0866,35222,waterleaf,PC,waterleaf,waterleaf,1
+0867,49,S0867,32043,pain; suffering; depression,C,pain,pain; suffering; depression,1
+0868,49,S0868,35422,abyss; large hole,PC,abyss,abyss; large hole,1
+0869,49,S0869,27503,dry; evaporate,PC,dry,dry; evaporate,1
+0870,49,S0870,21987,slip,PC,slip,slip,1
+0871,49,S0871,35430,suck; absorb; sip; pipe; tube,PC,suck,suck; absorb; sip; pipe; tube,1
+0872,49,S0872,35433,bear fruit; sprout,PC,bear fruit,bear fruit; sprout,1
+0873,49,S0873,36039,that; is; isn,PC,that,that; is; isn,2
+0874,49,S0874,39164,tie; pressurise; capture; seize; clamp; squeeze; press; attack,PC,tie,tie; pressurise; capture; seize; clamp; squeeze; press; attack,2
+0875,49,S0875,35468,forceps; tongs; scissors,PC,forceps,forceps; tongs; scissors,1
+0876,49,S0876,38604,spoon,C,spoon,spoon,1
+0877,49,S0877,25711,fork,C,fork,fork,1
+0878,49,S0878,36060,scarcity; scarce,C,scarcity,scarcity; scarce,1
+0879,49,S0879,35566,insult (n.),C,insult (n.),insult (n.),1
+0880,49,S0880,23546,stalk; rod; stem,FMM,stalk,stalk; rod; stem,1
+0881,49,S0881,27425,type of mat,PC,type of mat,type of mat,1
+0882,49,S0882,32819,he-goat,C,he-goat,he-goat,2
+0883,49,S0883,20284,small mortar (n.),C,small mortar (n.),small mortar (n.),1
+0884,49,S0884,20816,particle; fragment,PC,particle,particle; fragment,2
+0885,49,S0885,20107,shortness; stump,PC,shortness,shortness; stump,1
+0886,50,S0886,20365,section of seed/ PC nut (n.),PC,section of seed/ nut (n.),section of seed/ nut (n.),1
+0887,50,S0887,27835,cliff; steep place,C,cliff,cliff; steep place,1
+0888,50,S0888,25345,society (n.),C,society (n.),society (n.),1
+0889,50,S0889,26178,crossbow,O,crossbow,crossbow,1
+0890,50,S0890,28363,twist; braid; wring,C,twist,twist; braid; wring,2
+0891,50,S0891,24904,dry season,C,dry season,dry season,1
+0892,50,S0892,36766,,C,,,0
+0893,50,S0893,30913,be difficult,PC,be difficult,be difficult,1
+0894,50,S0894,39180,support; help; uphold; promise,C,support,support; help; uphold; promise,3
+0895,50,S0895,29885,clean; wipe (v.),PC,clean,clean; wipe (v.),2
+0896,50,S0896,40575,"worship (v.), praise",C,worship (v.),worship (v.); praise,1
+0897,50,S0897,24335,dress; attire; adornment (n.),C,dress,dress; attire; adornment (n.),1
+0898,50,S0898,35672,hello; how are you,C,hello,hello; how are you,1
+0899,50,S0899,36600,stretch,C,stretch,stretch,1
+0900,50,S0900,21463,build; establish,C,build,build; establish,2
+0901,50,S0901,25480,rim,C,rim,rim,1
+0902,50,S0902,38656,wake,C,wake,wake,1
+0903,50,S0903,20754,rub; paint,C,rub,rub; paint,2
+0904,50,S0904,27193,narrate; report; discuss,C,narrate,narrate; report; discuss,1
+0905,50,S0905,21454,stab; inflict; needle; poke,C,stab,stab; inflict; needle; poke,1
+0906,50,S0906,22234,compress,PC,compress,compress,2
+0907,50,S0907,24030,grunt,PC,grunt,grunt,1
+0908,50,S0908,33311,soak; submerge; drown,O,soak,soak; submerge; drown,2
+0909,50,S0909,31168,boil; bubble; foam; froth; boil,PC,boil,boil; bubble; foam; froth,1
+0910,50,S0910,21608,pound; mash; hit; begin; start; engulf,PC,pound,pound; mash; hit; begin; start; engulf,1
+0911,50,S0911,23447,weigh,C,weigh,weigh,1
+0912,50,S0912,31179,anus,C,anus,anus,1
+0913,50,S0913,33261,nose; snot,C,nose,nose; snot,1
+0914,51,S0914,20462,jaw,C,jaw,jaw,1
+0915,51,S0915,34966,stomach; belly; tummy; rubbery enclosure,C,stomach,stomach; belly; tummy; rubbery enclosure,1
+0916,51,S0916,32066,throw; point; inflict; turn on,C,throw,throw; point; inflict; turn on,2
+0917,51,S0917,32670,peacock,S,peacock,peacock,1
+0918,51,S0918,32722,volume; shouting,PC,volume,volume; shouting,1
+0919,51,S0919,36913,,PC,,,0
+0920,51,S0920,23601,anthill; mound,PC,anthill,anthill; mound,1
+0921,51,S0921,34886,stilts; stilt dance,O,stilts,stilts; stilt dance,1
+0922,51,S0922,38598,pole,PC,pole,pole,1
+0923,51,S0923,24833,can (n.),PC,can (n.),can (n.),1
+0924,51,S0924,37228,rubbish; heap; landfill; dirty; filth; germs,PC,rubbish,rubbish; heap; landfill; dirty; filth; germs,1
+0925,51,S0925,37276,move; flex; turn; dance; system,PC,move,move; flex; turn; dance; system,4
+0926,51,S0926,36468,,C,,,0
+0927,51,S0927,35186,vomit; produce,PC,vomit,vomit; produce,1
+0928,51,S0928,20805,red,PC,red,red,1
+0929,51,S0929,20303,wide; width,C,wide,wide; width,1
+0930,51,S0930,26580,corner,C,corner,corner,1
+0931,51,S0931,24467,"compound, court, C ṃgbàrà quarters",C,compound,compound; court; quarters,2
+0932,51,S0932,28171,compound,C,compound,compound,2
+0933,51,S0933,37507,"compound wall, C fence; citadel",C,compound wall,compound wall; fence; citadel,1
+0934,51,S0934,29539,island/obstruction C ṃgbà in river,C,island/obstruction in river,island/obstruction in river,1
+0935,51,S0935,32294,wet; dampen; flood; inundate,C,wet,wet; dampen; flood; inundate,1
+0936,51,S0936,21460,"sand, sandy",C,sand,sand; sandy,1
+0937,51,S0937,31069,monkey,C,monkey,monkey,1
+0938,51,S0938,23487,forgive,C,forgive,forgive,1
+0939,51,S0939,28113,"money store, 淑 C àzà safe; bank",C,money store,money store; safe; bank,1
+0940,51,S0940,31899,four cornered seat,C,four cornered seat,four cornered seat,1
+0941,51,S0941,32302,heifer,C,heifer,heifer,1
+0942,52,S0942,22654,gaping wound,C,gaping wound,gaping wound,1
+0943,52,S0943,29087,bottle,C,bottle,bottle,1
+0944,52,S0944,20986,asa fish,C,asa fish,asa fish,1
+0945,52,S0945,36848,worthless,C,worthless,worthless,1
+0946,52,S0946,34899,stupid; fool,C,stupid,stupid; fool,2
+0947,52,S0947,20426,stupid; foolish,C,stupid,stupid; foolish,2
+0948,52,S0948,26149,cross roads; junction; crossing,C,cross roads,cross roads; junction; crossing,1
+0949,52,S0949,30636,long basket,C,long basket,long basket,1
+0950,52,S0950,26092,back door; gate,C,back door,back door; gate,1
+0951,52,S0951,24033,banana husk,C,banana husk,banana husk,1
+0952,52,S0952,30462,bead,C,bead,bead,1
+0953,52,S0953,20934,[bead type],C,[bead type],[bead type],1
+0954,52,S0954,27529,mashed nuts,C,mashed nuts,mashed nuts,1
+0955,52,S0955,32020,company; industry,C,company,company; industry,1
+0956,52,S0956,24490,"choose, pick; 循 C hà favour, prefer; choice",C,choose,choose; pick; favour; prefer; choice,2
+0957,52,S0957,38918,wild mango,C,wild mango,wild mango,1
+0958,52,S0958,28310,thunder,C,thunder,thunder,1
+0959,52,S0959,28516,mans; building; base,MM,mans,mans; building; base,1
+0960,52,S0960,36981,"powerful woman, C àgbàrà rich woman",C,powerful woman,powerful woman; rich woman,1
+0961,52,S0961,20966,"cricket; locust, swarm",C,cricket,cricket; locust; swarm,1
+0962,52,S0962,21021,garden egg,C,garden egg,garden egg,1
+0963,52,S0963,26360,time; hour,C,time,time; hour,3
+0964,52,S0964,24246,excuse (n.),C,excuse (n.),excuse (n.),1
+0965,52,S0965,26257,"secret, private",C,secret,secret; private,1
+0966,52,S0966,32626,spirit; water-spirit; mermaid,C,spirit,spirit; water-spirit; mermaid,1
+0967,52,S0967,32210,rendezvous,C,rendezvous,rendezvous,1
+0968,52,S0968,35576,double edge knife,C,double edge knife,double edge knife,1
+0969,52,S0969,22914,big roots,C,big roots,big roots,1
+0970,53,S0970,21161,thread [beads] (v.),C,thread [beads] (v.),thread [beads] (v.),1
+0971,53,S0971,24207,desire; hunger; thirst (v.); famine,C,desire,desire; hunger; thirst (v.); famine,1
+0972,53,S0972,21465,swamp,PC,swamp,swamp,2
+0973,53,S0973,24464,"show, display, post",C,show,show; display; post,2
+0974,53,S0974,38500,underwear; pants; loincloth,C,underwear,underwear; pants; loincloth,1
+0975,53,S0975,23567,cassava,PC,cassava,cassava,2
+0976,53,S0976,21319,knot; cyst; tumour; lump; hump,PC,knot,knot; cyst; tumour; lump; hump,2
+0977,53,S0977,23569,rust; brown,C,rust,rust; brown,1
+0978,53,S0978,21484,fight (n.),O,fight (n.),fight (n.),1
+0979,53,S0979,21280,"struggle in 匠 1kpé judgement, court MF 2é匠 (é:kpé) case (v.); will, decree",MF,struggle in judgement,struggle in judgement; court case (v.); will; decree,1
+0980,53,S0980,24202,hoe,PC,hoe,hoe,1
+0981,53,S0981,25220,yam store; barn,C,yam store,yam store; barn,1
+0982,53,S0982,32918,disappear; invisibility,C,disappear,disappear; invisibility,1
+0983,53,S0983,23578,sickly,PC,sickly,sickly,1
+0984,53,S0984,25307,coil (v.),C,coil (v.),coil (v.),1
+0985,53,S0985,25215,dig,C,dig,dig,1
+0986,53,S0986,26119,swim,PC,swim,swim,1
+0987,53,S0987,26494,rattle; jangle; shake and make noise; swing,PC,rattle,rattle; jangle; shake and make noise; swing,1
+0988,53,S0988,27836,tap; palm-wine tapper,C,tap,tap; palm-wine tapper,1
+0989,53,S0989,26157,hole; pit,C,hole,hole; pit,1
+0990,53,S0990,23477,chalk; chalk stones,C,chalk,chalk; chalk stones,2
+0991,53,S0991,23558,cowrie; cowry,C,cowrie,cowrie; cowry,1
+0992,53,S0992,28040,grind,C,grind,grind,1
+0993,53,S0993,30151,lung; lungs; console,C,lung,lung; lungs; console,1
+0994,53,S0994,31077,pluck,C,pluck,pluck,2
+0995,53,S0995,31216,[elephant] trunk,C,[elephant] trunk,[elephant] trunk,1
+0996,53,S0996,31505,gown; tunic; dress,C,gown,gown; tunic; dress,1
+0997,53,S0997,21809,hippo,PC,hippo,hippo,1
+0998,54,S0998,21830,thigh,C,thigh,thigh,1
+0999,54,S0999,28169,size,C,size,size,1
+1000,54,S1000,31456,loincloth; underwear; pants,C,loincloth,loincloth; underwear; pants,1
+1001,54,S1001,32057,story; history; myth; fable,C,story,story; history; myth; fable,2
+1002,54,S1002,35359,story; tale; history; discussion,C,story,story; tale; history; discussion,2
+1003,54,S1003,21213,lip; lips,C,lip,lip; lips,1
+1004,54,S1004,25484,dream; think,C,dream,dream; think,1
+1005,54,S1005,26230,vibrate; reverberate; shake; murmur; mutter,C,vibrate,vibrate; reverberate; shake; murmur; mutter,1
+1006,54,S1006,28988,centipede,C,centipede,centipede,1
+1007,54,S1007,28966,difficult,C,difficult,difficult,1
+1008,54,S1008,30813,complaint; complain; anger,PC,complaint,complaint; complain; anger,1
+1009,54,S1009,31911,dispute; quarrel; argument,O,dispute,dispute; quarrel; argument,2
+1010,54,S1010,35412,river,S,river,river,1
+1011,54,S1011,35388,hook,C,hook,hook,3
+1012,54,S1012,35937,metamorph; transform; change; mutate; become [ideal],PC,metamorph,metamorph; transform; change; mutate; become [ideal],1
+1013,54,S1013,20663,much; big; large; uber,PC,much,much; big; large; uber,1
+1014,54,S1014,22888,middle child,C,middle child,middle child,1
+1015,54,S1015,35443,coal; soot; charcoal; ash,PC,coal,coal; soot; charcoal; ash,1
+1016,54,S1016,24432,sneeze,C,sneeze,sneeze,1
+1017,54,S1017,38556,avoid; be allergic 障 C zè to; dislike; prevent; save from,C,avoid,avoid; be allergic to; dislike; prevent; save from,1
+1018,54,S1018,24999,cockroach,PC,cockroach,cockroach,1
+1019,54,S1019,34909,cock,PC,cock,cock,1
+1020,54,S1020,36062,ball,PC,ball,ball,1
+1021,54,S1021,20767,rainbow,C,rainbow,rainbow,1
+1022,54,S1022,30977,"sphere; spherical, N ógbè ‘round; globe",N,sphere,sphere; spherical; globe,1
+1023,54,S1023,37912,slime; slimy,C,slime,slime; slimy,1
+1024,54,S1024,19976,think; reflect; consider,PC,think,think; reflect; consider,2
+1025,55,S1025,20887,crawl; move 冗 slowly; enter; sneak; hide; manoeuvre,PC,crawl,crawl; move slowly; enter; sneak; hide; manoeuvre,1
+1026,55,S1026,26465,wing; sides,S,wing,wing; sides,1
+1027,55,S1027,29366,bird; pigeon; have faith; pray,S,bird,bird; pigeon; have faith; pray,1
+1028,55,S1028,20055,"last, remain, 乗 C tö alone (v.); leave; abandon",C,last,last; remain; alone (v.); leave; abandon,1
+1029,55,S1029,22478,service; bondage; homage; veneration,C,service,service; bondage; homage; veneration,1
+1030,55,S1030,27972,blue; tree from 浄 C àlülü which blue pigment is obtained,C,blue,blue; tree from which blue pigment is obtained,1
+1031,55,S1031,21104,only; alone,C,only,only; alone,2
+1032,55,S1032,24120,wisdom; mind,C,wisdom,wisdom; mind,1
+1033,55,S1033,24773,direct; instruct; command; order; send; send on errand/mission; dictate; appoint,C,direct,direct; instruct; command; order; send; send on errand/mission; dictate; appoint,1
+1034,55,S1034,22580,competition,C,competition,competition,1
+1035,55,S1035,30067,wax (n.),PC,wax (n.),wax (n.),1
+1036,55,S1036,33976,push; nudge; tap; poke,S,push,push; nudge; tap; poke,2
+1037,55,S1037,32260,indigo plant; indigo; blue,C,indigo plant,indigo plant; indigo; blue,1
+1038,55,S1038,22732,round; circular; circle; globe,PC,round,round; circular; circle; globe,2
+1039,55,S1039,23330,skilled; devotee; professional; dedicated; expert; devotee,C,skilled,skilled; devotee; professional; dedicated; expert,1
+1040,55,S1040,37664,knee; kneel,PC,knee,knee; kneel,1
+1041,55,S1041,35698,be sized,C,be sized,be sized,1
+1042,55,S1042,37304,distort,C,distort,distort,1
+1043,55,S1043,33394,prove; test; challenge; endeavour,PC,prove,prove; test; challenge; endeavour,1
+1044,55,S1044,25325,pulp,C,pulp,pulp,1
+1045,55,S1045,39135,puddle; splash,C,puddle,puddle; splash,1
+1046,55,S1046,26893,"puberty; maturity, PC ógó age",PC,puberty,puberty; maturity; age,1
+1047,55,S1047,27542,observe; look; pry; peep; inspect; check; spy; investigate,C,observe,observe; look; pry; peep; inspect; check; spy; investigate,1
+1048,55,S1048,39166,provoke; evoke; irritate,C,provoke,provoke; evoke; irritate,1
+1049,55,S1049,35302,blow; puff; exhale; blow; whistle,C,blow,blow; puff; exhale; whistle,1
+1050,55,S1050,22065,muscle; meat,C,muscle,muscle; meat,1
+1051,55,S1051,32340,coast; shore,C,coast,coast; shore,1
+1052,55,S1052,32887,coloured; blacken; darken; become black,C,coloured,coloured; blacken; darken; become black,1
+1053,56,S1053,36785,"blindness, blind",C,blindness,blindness; blind,1
+1054,56,S1054,23611,blur,C,blur,blur,1
+1055,56,S1055,30003,shy; nervous; shy; embarrassed,C,shy,shy; nervous; embarrassed,1
+1056,56,S1056,20280,mutate; mutation,C,mutate,mutate; mutation,1
+1057,56,S1057,33251,also,C,also,also,1
+1058,56,S1058,33455,vein; artery,C,vein,vein; artery,1
+1059,56,S1059,36523,grip,C,grip,grip,1
+1060,56,S1060,36763,table,C,table,table,1
+1061,56,S1061,20405,shake; stagger; quake,C,shake,shake; stagger; quake,2
+1062,56,S1062,20449,mould; shape; contour; cast,PC,mould,mould; shape; contour; cast,3
+1063,56,S1063,27941,decay; decompose; spoil from sun,PC,decay,decay; decompose; spoil from sun,1
+1064,56,S1064,31070,soften; excess,PC,soften,soften; excess,2
+1065,56,S1065,21767,staff of office; justice; underwood,PC,staff of office,staff of office; justice; underwood,1
+1066,56,S1066,23072,burn; scorch,PC,burn,burn; scorch,2
+1067,56,S1067,25391,listen; observe; take advice,PC,listen,listen; observe; take advice,2
+1068,56,S1068,28024,"smell, scent, odour",PC,smell,smell; scent; odour,1
+1069,56,S1069,30495,"wealthy, profit",C,wealthy,wealthy; profit,1
+1070,56,S1070,37341,sacrifice (n.),PC,sacrifice (n.),sacrifice (n.),1
+1071,56,S1071,28145,stake; involvement,PC,stake,stake; involvement,1
+1072,56,S1072,32051,"aura; wisdom; charm, ‘glory; wonder; miracle; stateliness",C,aura,aura; wisdom; charm; wonder; miracle; stateliness,1
+1073,56,S1073,36914,tar; asphalt,PC,tar,tar; asphalt,1
+1074,56,S1074,26862,"target, bulls eye",PC,target,target; bulls eye,1
+1075,56,S1075,35386,heel,PC,heel,heel,1
+1076,56,S1076,23517,"sharpness, C ńkö intelligence",C,sharpness,sharpness; intelligence,1
+1077,56,S1077,24910,room; chamber; cell; private quarters,S,room,room; chamber; cell; private quarters,1
+1078,56,S1078,23529,bench; long chair; sofa,S,bench,bench; long chair; sofa,1
+1079,56,S1079,38663,gutter; sewage; sewer; viaduct; inlet,C,gutter,gutter; sewage; sewer; viaduct; inlet,1
+1080,56,S1080,34218,lake; wide waters,C,lake,lake; wide waters,1
+1081,57,S1081,35242,desert; baron C ǫzàrà lands,C,desert,desert; baron lands,1
+1082,57,S1082,20995,courtyard,N,courtyard,courtyard,1
+1083,57,S1083,20161,pond,C,pond,pond,1
+1084,57,S1084,23613,reasoning; point; motive,C,reasoning,reasoning; point; motive,1
+1085,57,S1085,36805,"carry [on back], PC kwǫ pick up",PC,carry [on back],carry [on back]; pick up,1
+1086,57,S1086,29978,"left over, change, tip C ümá [money] profit [n.]",C,left over,left over; change; tip [money] profit [n.],1
+1087,57,S1087,38499,side; edge; angle,PC,side,side; edge; angle,1
+1088,57,S1088,23563,meat; flesh; carnal,PC,meat,meat; flesh; carnal,1
+1089,57,S1089,33102,witness,PC,witness,witness,1
+1090,57,S1090,38920,large; big; augment,PC,large,large; big; augment,1
+1091,57,S1091,22259,fill up; swell,C,fill up,fill up; swell,1
+1092,57,S1092,21561,mark (v.),PC,mark (v.),mark (v.),1
+1093,57,S1093,22402,"compress, choke",C,compress,compress; choke,2
+1094,57,S1094,28810,heal,C,heal,heal,1
+1095,57,S1095,24101,tell; relate; discuss; chat; gossip,C,tell,tell; relate; discuss; chat; gossip,2
+1096,57,S1096,31883,lift down,PC,lift down,lift down,1
+1097,57,S1097,34928,hurt,PC,hurt,hurt,1
+1098,57,S1098,25512,communicate,C,communicate,communicate,1
+1099,57,S1099,37204,bend; turn,PC,bend,bend; turn,2
+1100,57,S1100,36930,rub,PC,rub,rub,2
+1101,57,S1101,30561,flow [river],PC,flow [river],flow [river],1
+1102,57,S1102,31298,roast,C,roast,roast,1
+1103,57,S1103,38543,shake; shiver,PC,shake,shake; shiver,2
+1104,57,S1104,39620,,PC,,,0
+1105,57,S1105,26530,window,C,window,window,1
+1106,57,S1106,23815,,C,,,0
+1107,57,S1107,25968,float,PC,float,float,1
+1108,57,S1108,25454,pull; draw; stretch; smoke; suck; inhale,C,pull,pull; draw; stretch; smoke; suck; inhale,3
+1109,58,S1109,26441,tickle,C,tickle,tickle,1
+1110,58,S1110,35070,"peel, cut, 1bè unravel; peel off; skin; bleach; scales (n.)",PC,peel,peel; cut; unravel; peel off; skin; bleach; scales (n.),1
+1111,58,S1111,23544,"nail, spike",PC,nail,nail; spike,2
+1112,58,S1112,28716,"mask, masquerade",PC,mask,mask; masquerade,1
+1113,58,S1113,26159,arena; grounds; place; area,PC,arena,arena; grounds; place; area,1
+1114,58,S1114,20117,clod,C,clod,clod,1
+1115,58,S1115,27491,"hit, beat; play",C,hit,hit; beat; play,2
+1116,58,S1116,25104,palm nut,PC,palm nut,palm nut,1
+1117,58,S1117,35199,clot; congeal; coagulate,C,clot,clot; congeal; coagulate,1
+1118,58,S1118,22768,nail; claw,PC,nail,nail; claw,2
+1119,58,S1119,21046,clay; edible clay; clay pot,PC,clay,clay; edible clay; clay pot,1
+1120,58,S1120,22995,mould; carve; create,PC,mould,mould; carve; create,3
+1121,58,S1121,24449,[affix] ‘my; me; mine; myself; me; I,C,[affix],[affix]; me; mine; myself,1
+1122,58,S1122,24615,"clinch, grasp",C,clinch,clinch; grasp,1
+1123,58,S1123,38738,"chop, fell, saw",PC,chop,chop; fell; saw,1
+1124,58,S1124,25993,chin,C,chin,chin,1
+1125,58,S1125,25919,coconut,C,coconut,coconut,1
+1126,58,S1126,26143,,PC,,,0
+1127,58,S1127,29298,namesake; eponymous,PC,namesake,namesake; eponymous,1
+1128,58,S1128,30465,"sitting platform, PC ógó bench, seat",PC,sitting platform,sitting platform; bench; seat,1
+1129,58,S1129,20932,strength; endurance,PC,strength,strength; endurance,2
+1130,58,S1130,36893,bachelor; male C ókókpòrò virgin,C,bachelor,bachelor; male virgin,1
+1131,58,S1131,28165,invitation; feast; festival; dinner,PC,invitation,invitation; feast; festival; dinner,1
+1132,58,S1132,30427,container; empty 盛 C ókpókóró container; shell; skull,C,container,container; empty container; shell; skull,1
+1133,58,S1133,23167,heat up; become 婿 PC kpè hot; engulf; singe; burn,PC,heat up,heat up; become hot; engulf; singe; burn,1
+1134,58,S1134,26228,"put on, cap, close, 晴 C kpù seal, close with hand (v.)",C,put on,put on; cap; close; seal; close with hand (v.),1
+1135,58,S1135,21218,cap; close; secure; enclose; seal,C,cap,cap; close; secure; enclose; seal,1
+1136,59,S1136,32854,mantis,C,mantis,mantis,1
+1137,59,S1137,35488,"heap, pile",C,heap,heap; pile,2
+1138,59,S1138,31934,theft; thief; thieving; stealing; illegal,C,theft,theft; thief; thieving; stealing; illegal,1
+1139,59,S1139,35069,"twenty, 20",PC,twenty,twenty,1
+1140,59,S1140,38745,"four hundred, 400",PC,four hundred,four hundred,1
+1141,59,S1141,35531,"strands, fibre, C hair, follicles; eyebrow",C,strands,strands; fibre; hair; follicles; eyebrow,1
+1142,59,S1142,25972,"hit, knock",PC,hit,hit; knock,2
+1143,59,S1143,37266,kidnap; strangle,PC,kidnap,kidnap; strangle,1
+1144,59,S1144,31246,"older than, to be PC tö senior",PC,older than,older than; to be senior,1
+1145,59,S1145,22805,"place, lay (v.); 夕 PC tö foundation; establish",PC,place,place; lay (v.); foundation; establish,3
+1146,59,S1146,26021,untie; unwrap; loosen; undo,PC,untie,untie; unwrap; loosen; undo,1
+1147,59,S1147,30707,praise; glorify; flatter,PC,praise,praise; glorify; flatter,2
+1148,59,S1148,36196,extol; praise; name; coin word,PC,extol,extol; praise; name; coin word,1
+1149,59,S1149,26132,plant; stick,PC,plant,plant; stick,1
+1150,59,S1150,26512,build; erect,PC,build,build; erect,2
+1151,59,S1151,24109,"order, request",PC,order,order; request,2
+1152,59,S1152,33034,breathe; fan; breeze; blow,C,breathe,breathe; fan; breeze; blow,1
+1153,59,S1153,38587,fling; throw; toss,PC,fling,fling; throw; toss,1
+1154,59,S1154,24796,patterned (v.),PC,patterned (v.),patterned (v.),1
+1155,59,S1155,25114,measure; measure 2ǹ戚 (ǹ:gàdà) of a foot,PC,measure,measure; measure of a foot,2
+1156,59,S1156,36012,scratch; stab; pinch,PC,scratch,scratch; stab; pinch,3
+1157,59,S1157,36321,drizzle (v.),PC,drizzle (v.),drizzle (v.),1
+1158,59,S1158,31309,lie; tease; connive; deceive,PC,lie,lie; tease; connive; deceive,3
+1159,59,S1159,32318,"industrious, 績 enterprise, hard C chú work, zest, eagerness, “fast”",C,industrious,industrious; enterprise; hard work; zest; eagerness,1
+1160,59,S1160,31821,musical pot,C,musical pot,musical pot,1
+1161,59,S1161,20999,"times, a multiple",PC,times,times; a multiple,1
+1162,59,S1162,25240,"fold, halve, wrap",PC,fold,fold; halve; wrap,1
+1163,59,S1163,25305,fog; mist; haze,C,fog,fog; mist; haze,1
+1164,60,S1164,31363,round,C,round,round,2
+1165,60,S1165,35373,"cup, container",C,cup,cup; container,2
+1166,60,S1166,38634,"mistress, 雪 PC íkó concubine, beloved, best friend",PC,mistress,mistress; concubine; beloved; best friend,1
+1167,60,S1167,25666,vapour; steam,C,vapour,vapour; steam,1
+1168,60,S1168,31680,cell,C,cell,cell,1
+1169,60,S1169,35500,tobacco,PC,tobacco,tobacco,1
+1170,60,S1170,33292,thick forest,PC,thick forest,thick forest,1
+1171,60,S1171,32118,growing calabash,C,growing calabash,growing calabash,1
+1172,60,S1172,20185,beans,PC,beans,beans,1
+1173,60,S1173,23554,nostalgia; to miss PC àgwà someone,PC,nostalgia,nostalgia; to miss someone,1
+1174,60,S1174,27849,"disgust, ugly",PC,disgust,disgust; ugly,1
+1175,60,S1175,27973,raffia,PC,raffia,raffia,1
+1176,60,S1176,27927,dryness; dry; hardness; stiff; stiffness,PC,dryness,dryness; dry; hardness; stiff; stiffness,1
+1177,60,S1177,26579,,C,,,0
+1178,60,S1178,25159,surface; facade; side,PC,surface,surface; facade; side,1
+1179,60,S1179,26643,throat; pharynx,C,throat,throat; pharynx,1
+1180,60,S1180,26059,,C,,,0
+1181,60,S1181,33337,"bribe, bet, wager",PC,bribe,bribe; bet; wager,1
+1182,60,S1182,25126,"cow tail, fly-whisk",PC,cow tail,cow tail; fly-whisk,1
+1183,60,S1183,29006,storeroom,C,storeroom,storeroom,1
+1184,60,S1184,32680,widow; widower,PC,widow,widow; widower,1
+1185,60,S1185,33146,lame,N,lame,lame,1
+1186,60,S1186,35438,slap; assault,PC,slap,slap; assault,1
+1187,60,S1187,36341,foreign land; marsh; riverside people; riverain,C,foreign land,foreign land; marsh; riverside people; riverain,1
+1188,60,S1188,31627,shoot,PC,shoot,shoot,1
+1189,60,S1189,37549,sharpen; aware,PC,sharpen,sharpen; aware,1
+1190,60,S1190,28508,shine (v.); glow (adj.),C,shine (v.),shine (v.); glow (adj.),1
+1191,60,S1191,32218,"spine, taproot",C,spine,spine; taproot,1
+1192,61,S1192,36983,all; altogether; totality,C,all,all; altogether; totality,1
+1193,61,S1193,36984,entire; all; totality,PC,entire,entire; all; totality,1
+1194,61,S1194,34214,sieve (v.),C,sieve (v.),sieve (v.),1
+1195,61,S1195,32330,elbow,C,elbow,elbow,1
+1196,61,S1196,39854,"consider, discuss",PC,consider,consider; discuss,1
+1197,61,S1197,20840,crossing; ford,PC,crossing,crossing; ford,1
+1198,61,S1198,21069,bore (v.),PC,bore (v.),bore (v.),1
+1199,61,S1199,21892,"fly (n.), flies",C,fly (n.),fly (n.); flies,1
+1200,61,S1200,28982,field,PC,field,field,1
+1201,61,S1201,31109,pay,C,pay,pay,1
+1202,61,S1202,28472,"move, walk, 漸 C rè swagger, majestically",C,move,move; walk; swagger; majestically,4
+1203,61,S1203,33203,knead,C,knead,knead,1
+1204,61,S1204,32341,"comb, rake (v.)",C,comb,comb; rake (v.),2
+1205,61,S1205,29401,announcement; proclamation,C,announcement,announcement; proclamation,1
+1206,61,S1206,32068,"burn; clear by PC sü burning,",PC,burn,burn; clear by burning,2
+1207,61,S1207,21452,dip; duck,C,dip,dip; duck,1
+1208,61,S1208,33624,"six pence, figure, C shïshį figurative “nothing”",C,six pence,six pence; figure; figurative,1
+1209,61,S1209,33609,"evaporate, dry up; evaporation",PC,evaporate,evaporate; dry up; evaporation,1
+1210,61,S1210,20489,,C,,,0
+1211,61,S1211,25436,share; split,PC,share,share; split,1
+1212,61,S1212,25407,sprinkle,PC,sprinkle,sprinkle,1
+1213,61,S1213,26705,"menses, 桑 PC èzí menstruation, menstrual cycle",PC,menses,menses; menstruation; menstrual cycle,1
+1214,61,S1214,24035,verandah,C,verandah,verandah,1
+1215,61,S1215,25475,"swallow, engulf, eat, C yó cover",C,swallow,swallow; engulf; eat; cover,1
+1216,61,S1216,26361,extinguish; off; die; end; finish; die; down; turn off; snuff,C,extinguish,extinguish; off; die; end; finish; down; turn off; snuff,1
+1217,61,S1217,26365,miss [road] (v.),PC,miss [road] (v.),miss [road] (v.),1
+1218,61,S1218,35013,"court case, judging, O ìkpé legal battle, fight",O,court case,court case; judging; legal battle; fight,1
+1219,61,S1219,20711,placenta,C,placenta,placenta,1
+1220,62,S1220,24819,homestead,C,homestead,homestead,1
+1221,62,S1221,23652,every; regular,PC,every,every; regular,1
+1222,62,S1222,32207,sew; stitch; tailor; weave,C,sew,sew; stitch; tailor; weave,1
+1223,62,S1223,36973,add; supplement; top up; also; plus,PC,add,add; supplement; top up; also; plus,1
+1224,62,S1224,27133,"stair, step",C,stair,stair; step,1
+1225,62,S1225,36394,musical instruments,C,musical instruments,musical instruments,1
+1226,62,S1226,25805,music,C,music,music,1
+1227,62,S1227,29157,female tortoise,PC,female tortoise,female tortoise,1
+1228,62,S1228,38684,sweat,C,sweat,sweat,1
+1229,62,S1229,39442,adult,C,adult,adult,1
+1230,62,S1230,34299,periodically; occasionally,C,periodically,periodically; occasionally,2
+1231,62,S1231,36896,warrior; soldier; military,C,warrior,warrior; soldier; military,2
+1232,62,S1232,20687,semen; sperm,C,semen,semen; sperm,1
+1233,62,S1233,22679,prepare; dress; get ready; practice; rehearse; train,C,prepare,prepare; dress; get ready; practice; rehearse; train,1
+1234,62,S1234,38459,avenge; revenge,C,avenge,avenge; revenge,1
+1235,62,S1235,30094,village; hamlet; quarter; compound; ward,C,village,village; hamlet; quarter; compound; ward,2
+1236,62,S1236,21930,cannon,C,cannon,cannon,1
+1237,62,S1237,24974,breath,C,breath,breath,1
+1238,62,S1238,23384,fool,C,fool,fool,1
+1239,62,S1239,36956,trickery; craftiness; cunning; lie; fraud; fake,C,trickery,trickery; craftiness; cunning; lie; fraud; fake,1
+1240,62,S1240,20195,farmland,C,farmland,farmland,1
+1241,62,S1241,21488,to; -ship,PC,to,to,1
+1242,62,S1242,25246,assign,C,assign,assign,1
+1243,62,S1243,28655,begin; start; intensify,C,begin,begin; start; intensify,2
+1244,62,S1244,33073,gong; bell,C,gong,gong; bell,2
+1245,62,S1245,20025,staff,PC,staff,staff,1
+1246,62,S1246,37723,porcupine,PC,porcupine,porcupine,1
+1247,62,S1247,24382,hernia,PC,hernia,hernia,1
+1248,63,S1248,22320,,C,,,0
+1249,63,S1249,24677,bush cow,PC,bush cow,bush cow,1
+1250,63,S1250,20210,hen,C,hen,hen,1
+1251,63,S1251,19969,"greeting, 丁 PC öjï entertainment, gift, bribe",PC,greeting,greeting; entertainment; gift; bribe,1
+1252,63,S1252,24115,wolf,C,wolf,wolf,1
+1253,63,S1253,24373,"parasite, worm, C ǹjé sickly, affliction",C,parasite,parasite; worm; sickly; affliction,1
+1254,63,S1254,24427,sweet potato,C,sweet potato,sweet potato,1
+1255,63,S1255,30522,hall; room; quarters,PC,hall,hall; room; quarters,2
+1256,63,S1256,38914,seagull,C,seagull,seagull,1
+1257,63,S1257,26397,season,C,season,season,2
+1258,63,S1258,25361,yam; yam tuber,PC,yam,yam; yam tuber,2
+1259,63,S1259,30044,grey hair; aged PC áwö hair,PC,grey hair,grey hair; aged hair,1
+1260,63,S1260,31258,those; them; that; this,C,those,those; them; that; this,1
+1261,63,S1261,22022,vision; apparition,C,vision,vision; apparition,1
+1262,63,S1262,28845,vulva,C,vulva,vulva,1
+1263,63,S1263,31062,middle,C,middle,middle,2
+1264,63,S1264,35380,"wash [hands], rinse",PC,wash [hands],wash [hands]; rinse,1
+1265,63,S1265,30185,"scabbard, sheath",C,scabbard,scabbard; sheath,1
+1266,63,S1266,34101,fish fillet,PC,fish fillet,fish fillet,1
+1267,63,S1267,26449,trench,PC,trench,trench,1
+1268,63,S1268,20182,"bowl, cup",PC,bowl,bowl; cup,1
+1269,63,S1269,25140,"palm, sole; feet",PC,palm,palm; sole; feet,2
+1270,63,S1270,31532,"heap, bundle",PC,heap,heap; bundle,2
+1271,63,S1271,27810,spear,C,spear,spear,1
+1272,63,S1272,35582,sweetness; sweet; tooth,C,sweetness,sweetness; sweet; tooth,1
+1273,63,S1273,22890,sacred grove,C,sacred grove,sacred grove,1
+1274,63,S1274,26086,he-goat,C,he-goat,he-goat,2
+1275,63,S1275,22243,farm land; land 団 C ǫdö dominated by one crop,C,farm land,farm land; land dominated by one crop,1
+1276,64,S1276,26262,"behaviour, conduct",C,behaviour,behaviour; conduct,1
+1277,64,S1277,27744,spleen,C,spleen,spleen,1
+1278,64,S1278,33268,purpose; need,C,purpose,purpose; need,1
+1279,64,S1279,34411,rudder,C,rudder,rudder,1
+1280,64,S1280,24340,song; ululation,C,song,song; ululation,1
+1281,64,S1281,24193,thumb piano; sanza,C,thumb piano,thumb piano; sanza,1
+1282,64,S1282,20806,xylophone,C,xylophone,xylophone,1
+1283,64,S1283,23265,"strings, guitar",C,strings,strings; guitar,1
+1284,64,S1284,37347,slit drum; gong,C,slit drum,slit drum; gong,2
+1285,64,S1285,40165,revenge; grudge; animosity,C,revenge,revenge; grudge; animosity,1
+1286,64,S1286,36028,"plenty, many",PC,plenty,plenty; many,2
+1287,64,S1287,30010,"steer, drive; pilot; driver",PC,steer,steer; drive; pilot; driver,1
+1288,64,S1288,36880,raffia cotton cloth,C,raffia cotton cloth,raffia cotton cloth,1
+1289,64,S1289,32622,"fowl meat, poultry",C,fowl meat,fowl meat; poultry,1
+1290,64,S1290,31471,stock; breed; kindred,C,stock,stock; breed; kindred,1
+1291,64,S1291,32966,pelvis,C,pelvis,pelvis,1
+1292,64,S1292,31199,pineapple,PC,pineapple,pineapple,1
+1293,64,S1293,22609,rabbit hole,C,rabbit hole,rabbit hole,1
+1294,64,S1294,33900,migraine,C,migraine,migraine,1
+1295,64,S1295,36104,divination,PC,divination,divination,1
+1296,64,S1296,23403,gill,C,gill,gill,1
+1297,64,S1297,22810,loom,C,loom,loom,1
+1298,64,S1298,24907,needle,C,needle,needle,1
+1299,64,S1299,28381,shrimp,C,shrimp,shrimp,1
+1300,64,S1300,21331,"huge, enormous",C,huge,huge; enormous,1
+1301,64,S1301,28609,burglar; thief; bandit,,burglar,burglar; thief; bandit,1
+1302,64,S1302,26842,harpoon,C,harpoon,harpoon,1
+1303,64,S1303,25285,clitoris,C,clitoris,clitoris,1
+1304,65,S1304,27573,hearth,C,hearth,hearth,1
+1305,65,S1305,35527,termite,C,termite,termite,1
+1306,65,S1306,30693,"buy, acquire",C,buy,buy; acquire,2
+1307,65,S1307,36933,ankle rattle,C,ankle rattle,ankle rattle,1
+1308,65,S1308,27798,bamboo mat,C,bamboo mat,bamboo mat,1
+1309,65,S1309,34935,ball bearing,C,ball bearing,ball bearing,1
+1310,65,S1310,37198,potion,C,potion,potion,1
+1311,65,S1311,37619,palm kernel,PC,palm kernel,palm kernel,1
+1312,65,S1312,31378,kidney,C,kidney,kidney,1
+1313,65,S1313,31209,peanut,PC,peanut,peanut,1
+1314,65,S1314,39376,dispute,C,dispute,dispute,2
+1315,65,S1315,33879,funnel,C,funnel,funnel,1
+1316,65,S1316,36015,"fowls comb, crown",C,fowls comb,fowls comb; crown,1
+1317,65,S1317,33988,meal; lunch,C,meal,meal; lunch,1
+1318,65,S1318,32251,perch,C,perch,perch,1
+1319,65,S1319,32187,chameleon,PC,chameleon,chameleon,1
+1320,65,S1320,28129,respect; decent,C,respect,respect; decent,1
+1321,65,S1321,32032,shin,PC,shin,shin,1
+1322,65,S1322,36961,thread; sewing C òwú thread; hair thread,C,thread,thread; sewing thread; hair thread,1
+1323,65,S1323,21109,silence,C,silence,silence,2
+1324,65,S1324,33235,"evening, sundown",C,evening,evening; sundown,3
+1325,65,S1325,23562,throbbing pain (v.),PC,throbbing pain (v.),throbbing pain (v.),1
+1326,65,S1326,27760,pneumonia,C,pneumonia,pneumonia,1
+1327,65,S1327,28382,"clever, intelligence",C,clever,clever; intelligence,1
+1328,65,S1328,23429,urine; piss,PC,urine,urine; piss,1
+1329,65,S1329,25299,deaf mute,C,deaf mute,deaf mute,1
+1330,65,S1330,20294,"close, nearby, PC ńdü adjacent",PC,close,close; nearby; adjacent,2
+1331,65,S1331,35504,dove,PC,dove,dove,1
+1332,66,S1332,21336,waist band; belt,C,waist band,waist band; belt,1
+1333,66,S1333,26029,waist beads,C,waist beads,waist beads,1
+1334,66,S1334,22727,sow; plant,C,sow,sow; plant,1
+1335,66,S1335,20516,"chamber, cavity, C ǹdà cell",C,chamber,chamber; cavity; cell,1
+1336,66,S1336,30196,stage; platform,C,stage,stage; platform,1
+1337,66,S1337,23449,"soak, dampen, C sü wash clothes",C,soak,soak; dampen; wash clothes,2
+1338,66,S1338,26609,coward,C,coward,coward,1
+1339,66,S1339,26172,"probe, instrument",PC,probe,probe; instrument,1
+1340,66,S1340,27880,"wave, waves; PC èbìrì trouble",PC,wave,wave; waves; trouble,1
+1341,66,S1341,33590,granary,PC,granary,granary,1
+1342,66,S1342,30528,dew,C,dew,dew,1
+1343,66,S1343,25277,"effort, work, PC ńdölį struggle",PC,effort,effort; work; struggle,1
+1344,66,S1344,24544,foreskin,C,foreskin,foreskin,1
+1345,66,S1345,20013,sacred forest,C,sacred forest,sacred forest,1
+1346,66,S1346,31689,liver,PC,liver,liver,1
+1347,66,S1347,31481,"manners; greeting, PC úméré ‘response; respect",PC,manners,manners; greeting; respect,1
+1348,66,S1348,35477,usefulness; profit; use; benefit,C,usefulness,usefulness; profit; use; benefit,1
+1349,66,S1349,30701,mourning; sorrow,C,mourning,mourning; sorrow,1
+1350,66,S1350,25514,overnight; yesternight; stale,C,overnight,overnight; yesternight; stale,1
+1351,66,S1351,30990,gift,C,gift,gift,1
+1352,66,S1352,31379,flour,PC,flour,flour,1
+1353,66,S1353,21363,"tax, tribute",PC,tax,tax; tribute,1
+1354,66,S1354,25613,early dawn,PC,early dawn,early dawn,1
+1355,66,S1355,25171,"smithy, smith",C,smithy,smithy; smith,1
+1356,66,S1356,22949,lagoon,C,lagoon,lagoon,1
+1357,66,S1357,21822,hospitality,C,hospitality,hospitality,1
+1358,66,S1358,22549,mortar,C,mortar,mortar,2
+1359,66,S1359,24816,leisure; pleasure; laid back,C,leisure,leisure; pleasure; laid back,1
+1360,67,S1360,39364,mythology,PC,mythology,mythology,1
+1361,67,S1361,22826,guinea fowl,PC,guinea fowl,guinea fowl,1
+1362,67,S1362,23550,"be, exist",C,be,be; exist,1
+1363,67,S1363,20307,"mould, mildew",C,mould,mould; mildew,3
+1364,67,S1364,32784,haze,C,haze,haze,1
+1365,67,S1365,24453,body of water,C,body of water,body of water,1
+1366,67,S1366,24608,"time, age, when",C,time,time; age; when,3
+1367,67,S1367,32974,omen; prognosis,PC,omen,omen; prognosis,1
+1368,67,S1368,36864,snail,C,snail,snail,1
+1369,67,S1369,24111,lily,C,lily,lily,1
+1370,67,S1370,27888,ladle,C,ladle,ladle,1
+1371,67,S1371,22534,knot,C,knot,knot,2
+1372,67,S1372,34955,woods; forest,C,woods,woods; forest,1
+1373,67,S1373,36910,envy; jealousy,C,envy,envy; jealousy,1
+1374,67,S1374,26367,raft,C,raft,raft,1
+1375,67,S1375,36024,rafter,PC,rafter,rafter,1
+1376,67,S1376,38538,latex,PC,latex,latex,1
+1377,67,S1377,29575,leech,C,leech,leech,1
+1378,67,S1378,21330,rabbit,C,rabbit,rabbit,1
+1379,67,S1379,31895,ribs; rib cage,C,ribs,ribs; rib cage,1
+1380,67,S1380,22766,"hook, crook",C,hook,hook; crook,3
+1381,67,S1381,29245,parcel; package,C,parcel,parcel; package,1
+1382,67,S1382,26463,"fine, tax, tribute (v.)",C,fine,fine; tax; tribute (v.),1
+1383,67,S1383,36275,"secretive, stealthy",C,secretive,secretive; stealthy,1
+1384,67,S1384,20419,silk,C,silk,silk,1
+1385,67,S1385,21063,pray,PC,pray,pray,1
+1386,67,S1386,24687,reduce,PC,reduce,reduce,1
+1387,67,S1387,25417,reed,C,reed,reed,1
+1388,68,S1388,36895,sway; wobble,C,sway,sway; wobble,1
+1389,68,S1389,20596,"limp, hanging, 側 C yǫ dripping, drooping, lazy",C,limp,limp; hanging; dripping; drooping; lazy,1
+1390,68,S1390,28204,hire,C,hire,hire,1
+1391,68,S1391,20439,appoint,PC,appoint,appoint,2
+1392,68,S1392,26063,"appoint, PC yì appointment",PC,appoint,appoint; appointment,2
+1393,68,S1393,23646,,C,,,0
+1394,68,S1394,36042,,C,,,0
+1395,68,S1395,32154,innocence,PC,innocence,innocence,1
+1396,68,S1396,30456,step; tread,C,step,step; tread,1
+1397,68,S1397,22863,co-ordinate,PC,co-ordinate,co-ordinate,1
+1398,68,S1398,36208,curl; squeeze,C,curl,curl; squeeze,1
+1399,68,S1399,20105,bend down; squat,C,bend down,bend down; squat,1
+1400,68,S1400,26089,billion,C,billion,billion,1
